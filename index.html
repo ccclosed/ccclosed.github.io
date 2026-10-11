@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Мой простой сайт</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: #0f0f1a;
+    color: #eaeaea;
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    background: linear-gradient(135deg, #6366f1, #a855f7);
+    padding: 60px 20px;
+    text-align: center;
+  }
+
+  header h1 { font-size: 2.5rem; margin-bottom: 10px; }
+  header p  { opacity: 0.9; }
+
+  nav {
+    background: #1a1a2e;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+
+  nav a {
+    color: #eaeaea;
+    text-decoration: none;
+    transition: color .2s;
+  }
+  nav a:hover { color: #a855f7; }
+
+  main {
+    flex: 1;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    width: 100%;
+  }
+
+  section {
+    background: #1a1a2e;
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 25px;
+    border: 1px solid #2a2a45;
+  }
+
+  section h2 {
+    color: #a855f7;
+    margin-bottom: 15px;
+  }
+
+  button {
+    background: #6366f1;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background .2s, transform .1s;
+    margin-top: 15px;
+  }
+  button:hover  { background: #4f46e5; }
+  button:active { transform: scale(.97); }
+
+  #counter {
+    display: inline-block;
+    margin-left: 15px;
+    font-weight: bold;
+    color: #a855f7;
+    font-size: 1.2rem;
+  }
+
+  footer {
+    background: #1a1a2e;
+    text-align: center;
+    padding: 20px;
+    color: #888;
+    font-size: .9rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Привет, мир! 👋</h1>
+  <p>Простой сайт на чистом HTML, CSS и JavaScript</p>
+</header>
+
+<nav>
+  <a href="#about">О сайте</a>
+  <a href="#features">Возможности</a>
+  <a href="#demo">Демо</a>
+</nav>
+
+<main>
+  <section id="about">
+    <h2>О сайте</h2>
+    <p>Это минималистичный одностраничник, который можно использовать как шаблон. 
+       Всё в одном файле — без фреймворков, сборщиков и зависимостей.</p>
+  </section>
+
+  <section id="features">
+    <h2>Возможности</h2>
+    <ul style="padding-left: 20px;">
+      <li>Адаптивная вёрстка</li>
+      <li>Тёмная тема</li>
+      <li>Плавные градиенты</li>
+      <li>Немного JS-интерактива</li>
+    </ul>
+  </section>
+
+  <section id="demo">
+    <h2>Демо</h2>
+    <p>Нажми на кнопку — счётчик увеличится:</p>
+    <button onclick="increment()">Нажми меня</button>
+    <span id="counter">0</span>
+  </section>
+</main>
+
+<footer>
+  © 2025 Мой простой сайт. Сделано вручную.
+</footer>
+
+<script>
+  let count = 0;
+  function increment() {
+    count++;
+    document.getElementById('counter').textContent = count;
+  }
+</script>
+
+</body>
+</html>
