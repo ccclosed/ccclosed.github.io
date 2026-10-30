@@ -105,6 +105,7 @@
   <a href="#about">О сайте</a>
   <a href="#features">Возможности</a>
   <a href="#demo">Демо</a>
+  <a href="#vpn">VPN</a>
 </nav>
 
 <main>
@@ -124,6 +125,16 @@
     </ul>
   </section>
 
+  <section id="vpn">
+    <h2>VPN-подписка</h2>
+    <p>Свежие бесплатные узлы (VLESS/Reality, VMess, Shadowsocks, Hysteria2) — проверены на реальную
+       скорость и доступ к rutracker.org. Список обновляется автоматически каждые 2 часа.</p>
+    <p style="margin-top:12px;font-family:monospace;font-size:1.05rem;">
+      <a href="/sub.txt" style="color:#a855f7;">https://ccclosed.github.io/sub.txt</a>
+    </p>
+    <button onclick="copySub()">Скопировать ссылку</button>
+    <p id="subcopy" style="opacity:.75;margin-top:10px;"></p>
+  </section>
   <section id="demo">
     <h2>Демо</h2>
     <p>Нажми на кнопку — счётчик увеличится:</p>
@@ -137,6 +148,14 @@
 </footer>
 
 <script>
+  function copySub() {
+    const url = location.origin + '/sub.txt';
+    navigator.clipboard.writeText(url).then(() => {
+      document.getElementById('subcopy').textContent = 'Ссылка скопирована: ' + url;
+    }).catch(() => {
+      document.getElementById('subcopy').textContent = url;
+    });
+  }
   let count = 0;
   function increment() {
     count++;
