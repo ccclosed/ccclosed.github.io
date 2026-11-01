@@ -1,5 +1,7 @@
 #profile-title: ⚡ VPN · 01.11 · до 48 Мбит/с
 #profile-update-interval: 3
+#subscription-autoconnect: 1
+#subscription-autoconnect-type: lowestdelay
 #announce: Отбор 01.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.39:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=firefox&type=tcp&sni=tickets.betust.net&sid=f70764f8&insecure=0&flow=xtls-rprx-vision#🇩🇪 Германия · Франкфурт · 48 Мбит/с · Reality
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#🇮🇹 Италия · Милан · 43 Мбит/с · SS
