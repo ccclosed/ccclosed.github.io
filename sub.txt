@@ -1,12 +1,21 @@
-#profile-title: ⚡ VPN · 03.11 · до 41 Мбит/с
+#profile-title: ⚡ VPN · 03.11 · до 40 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 03.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@144.31.168.19:443?security=tls&sni=crt.onecloudstream.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#🌐 ? · 41 Мбит/с · TLS
-vless://8dd437e1-5f3f-446e-98fe-aa29b80057fb@194.48.250.131:443?security=tls&sni=crt.onecloudstream.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#🌐 ? · 41 Мбит/с · TLS
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#🇮🇹 Италия · Милан · 37 Мбит/с · SS
-vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#🇸🇬 Сингапур · Сингапур · 21 Мбит/с · TLS
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#🇮🇹 Италия · Милан · 40 Мбит/с · SS
+vless://5f704d93-7e7f-45b5-81f5-08db4a946220@104.17.70.206:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.com#🇩🇪 Германия · Лимбург · 37 Мбит/с · TLS
+hysteria2://france_2_hysteria2_fastlane_ta9m8kofg:OUnReI0uOy3RuPiPsImkgfKNav48UKxw@109.120.179.197:1935?sni=fr3.h.fastlanehosting.ru#🇫🇷 Франция · Paris · 30 Мбит/с · QUIC
+vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@89.169.13.161:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ScuWSKQxJg4QKv3FUj39wy8ZsZlnu1WFPhMWxbpTFFk&sid=b996df2f36a9ae6b&sni=nl198391278291.izzzyvpn.space#🇳🇱 Нидерланды · Амстердам · 20 Мбит/с · Reality
 vless://953150e0-cd65-408e-9d71-01b1fee8a172@sgtht.wawojk.dpdns.org:443?type=ws&security=tls&path=/adaa734f-f8c4-4778-8584-ab92e18d5c25-vm&sni=sgtht.wawojk.dpdns.org&fp=chrome#🇸🇬 Сингапур · Сингапур · 19 Мбит/с · TLS
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.21.91.49:443?path=/vlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🇲🇾 MY · Shah Alam · 19 Мбит/с · TLS
-vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28453?alpn=h2%2Chttp%2F1.1&path=%2Flovelive&security=tls&sni=pl.sparxiecn.com&type=ws&fp=ios#🇵🇱 Польша · Варшава · 12 Мбит/с · TLS
+vless://390fbb61-cbb2-48b0-a429-8dc0895b8fe0@brave-ploys.video-streams.org:443?encryption=none&type=ws&path=%2Fws&host=brave-ploys.video-streams.org&security=tls&sni=brave-ploys.video-streams.org&fp=chrome#🇺🇸 США · Bear · 17 Мбит/с · TLS
+hysteria2://ripa841juk7gwn4t@81.90.21.69:10005?sni=se.c0d1xdev.xyz&obfs=salamander&obfs-password=gt7i4h3xdj76vcmr#🇸🇪 Швеция · Stockholm · 14 Мбит/с · QUIC
+vless://977a195d-42cd-4ebe-be36-19eb15ce79fb@twiddled-gouging.cdn-content.com:443?encryption=none&type=ws&path=%2Fws&host=twiddled-gouging.cdn-content.com&security=tls&sni=twiddled-gouging.cdn-content.com&fp=chrome#🇺🇸 США · Bear · 13 Мбит/с · TLS
+vless://977a195d-42cd-4ebe-be36-19eb15ce79fb@sparkling-gadabout.quick-cdn.net:443?encryption=none&type=ws&path=%2Fws&host=sparkling-gadabout.quick-cdn.net&security=tls&sni=sparkling-gadabout.quick-cdn.net&fp=chrome#🇺🇸 США · Bear · 11 Мбит/с · TLS
+hysteria2://Ya8s3KxQ9pLw2@64.90.0.30:443?insecure=1&sni=hk-node#🇭🇰 Гонконг · Гонконг · 9 Мбит/с · QUIC
+vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28453?alpn=h2%2Chttp%2F1.1&path=%2Flovelive&security=tls&sni=pl.sparxiecn.com&type=ws&fp=ios#🇵🇱 Польша · Варшава · 8 Мбит/с · TLS
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.21.91.49:443?path=/vlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🇲🇾 MY · Shah Alam · 8 Мбит/с · TLS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3ZGFBZm4wa3B1NjBSb1RPNXRKY2Vqb1d1eFZ1RDZDLQ==@mojigr.fusetea.ir:1202#🇩🇪 Германия · Фалькенштайн · 8 Мбит/с · SS
+hysteria2://qtMKhrFAMrVZUfupkc5CFHmRKYtNPSjt@165.154.193.165:443?insecure=1&obfs=salamander&obfs-password=d7897b996af77eeecb7ac010361d74fb#🇸🇬 Сингапур · Сингапур · 8 Мбит/с · QUIC
+vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28452?alpn=h2%2Chttp%2F1.1&path=%2Flovelive&security=tls&sni=pl.sparxiecn.com&type=ws&fp=firefox#🇵🇱 Польша · Варшава · 5 Мбит/с · TLS
+vless://3b79d1e4-74a6-411f-9a40-b64189be2c9e@147.45.126.220:443?encryption=none&fp=firefox&security=tls&serviceName=assets&sni=pol.qikbro.com&type=grpc#🇵🇱 Польша · Варшава · 4 Мбит/с · TLS
