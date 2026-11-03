@@ -1,25 +1,34 @@
-#profile-title: ⚡ VPN · 03.11 · до 60 Мбит/с
+#profile-title: ⚡ VPN · 03.11 · до 56 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 03.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#🇳🇱 Нидерланды · Амстердам · 60 Мбит/с · SS
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?allowInsecure=1&sni=www.iloverussia2026.com#🌐 ? · 50 Мбит/с · TROJAN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#🇳🇱 Нидерланды · Амстердам · 48 Мбит/с · SS
-vless://5cccbd26-d910-4312-9c3d-8564821fbc53@etpl3.servertest.cc:443?path=%2Fgateway%2Fv1%2Fws%2Ff7f0ea91ad60cfc1d3cec81a7d1482d3&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=etpl3.servertest.cc#🇵🇱 Польша · Wyszków · 47 Мбит/с · TLS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#🇳🇱 Нидерланды · Амстердам · 38 Мбит/с · SS
-hysteria2://4536b7a7-eb90-42ce-b45d-5190dfc83701@185.231.204.193:443?sni=rowan.sanriodevgroup.org&alpn=h3#🇪🇸 Испания · Madrid · 34 Мбит/с · QUIC
-vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@150.241.74.29:443?security=reality&encryption=none&pbk=v--0dXOWcnzpJvl_6qkbWTCRLg-eWdJ6WxJsYtj9WQY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.izzzyvpn.space&sid=f7fdf037537b8c38#🌐 ? · 34 Мбит/с · Reality
-vless://00d09ead-4080-4c39-a75d-be7dcabe77f4@217.19.122.170:2096?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=26eRxOLahaWymVv1f33Za0Cw56VDNJ8BN2bEKznW-m4&security=reality&sid=2a096f7b298d0aba&sni=bm8.hat.onl&type=raw#🇵🇱 Польша · Варшава · 23 Мбит/с · Reality
-vless://f8bdf363-ff05-4fe6-a013-a5605266657e@144.31.242.142:443?security=tls&type=xhttp&path=%2Fconv4%2Fstream%2Fd34366ecdd31367d0fc76955c6b8d77c&packetEncoding=xudp&alpn=h2&sni=883f1393.con.rasterparcel.tech&fp=firefox&mode=auto&encryption=none#🇩🇰 Дания · Copenhagen · 23 Мбит/с · TLS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VVFzOFVEZzNkL2dnUDZ4a0dSdkRlYVdIaWJ1eWxXSkx5VFpGUFZDZU15dz06NGVtV2RUTW9KdzQzN2ZlZmpSNFlDM1ZVdVkwOTNHcUNITE5wYnAwRTljZz0=@l15.hubnetwatchdssub.ir:4431#🇫🇮 Финляндия · Хельсинки · 22 Мбит/с · SS
-hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3A98Va5kVHKW06htuFKRbjrX7rWPTNQI4Jlee5xTFNAW0@84.38.184.87:36116?sni=hu.lumacache.com&alpn=h3#🇭🇺 Венгрия · Budapest · 20 Мбит/с · QUIC
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&spx=/&type=raw#🇸🇪 Швеция · Stockholm · 17 Мбит/с · Reality
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.11.191:443?path=/vlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🇲🇾 MY · Shah Alam · 14 Мбит/с · TLS
-vless://c6438331-a79b-4471-fd5e-42c2eeac29fa@903.rtgpu.com:443?security=tls&type=ws&path=%2Fnmd2&sni=903.rtgpu.com&fp=chrome&encryption=none#🇩🇪 Германия · Фалькенштайн · 14 Мбит/с · TLS
-hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3AEKksNGKEBp8PXC1msSPh-Nfurs0VeCN0xPSnf1UsVH8@84.38.184.87:36118?sni=us2.lumacache.com&alpn=h3#🇺🇸 США · Ашберн · 14 Мбит/с · QUIC
-vless://390fbb61-cbb2-48b0-a429-8dc0895b8fe0@brave-ploys.video-streams.org:443?encryption=none&type=ws&path=%2Fws&host=brave-ploys.video-streams.org&security=tls&sni=brave-ploys.video-streams.org&fp=chrome#🇺🇸 США · Bear · 14 Мбит/с · TLS
-hysteria2://1r0d8slwbpg1iebe@129.153.77.162:8443?insecure=1&obfs=salamander&obfs-password=f7yrrbc9h6b1krnk&sni=www.apple.com#🇺🇸 США · Финикс · 13 Мбит/с · QUIC
-vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@144.31.217.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B6ZflW5h3Kce42IdizfHqjd_iq4ReXyJywBk-sjB0Gc&security=reality&sid=945994fe7b858108&sni=norvegia29838199399293838.izzzyvpn.space&type=tcp#🇳🇴 Норвегия · Oslo · 10 Мбит/с · Reality
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.21.91.49:443?path=/vlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🇲🇾 MY · Shah Alam · 9 Мбит/с · TLS
-hysteria2://qtMKhrFAMrVZUfupkc5CFHmRKYtNPSjt@165.154.193.165:443?insecure=1&obfs=salamander&obfs-password=d7897b996af77eeecb7ac010361d74fb#🇸🇬 Сингапур · Сингапур · 5 Мбит/с · QUIC
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?allowInsecure=1&sni=www.iloverussia2026.com#🇩🇪 Германия · Франкфурт · 56 Мбит/с · TROJAN
+hysteria2://a81a7b45-dd70-42ef-822f-ef467f944382@153.56.210.134:38045?sni=www.bing.com&obfs=salamander&obfs-password=642516f2-f9bd-41ce-9904-dee699c39cf9&insecure=1#🇹🇷 Турция · Анкара · 41 Мбит/с · QUIC
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VVFzOFVEZzNkL2dnUDZ4a0dSdkRlYVdIaWJ1eWxXSkx5VFpGUFZDZU15dz06NGVtV2RUTW9KdzQzN2ZlZmpSNFlDM1ZVdVkwOTNHcUNITE5wYnAwRTljZz0=@l15.hubnetwatchdssub.ir:4431#🇫🇮 Финляндия · Хельсинки · 36 Мбит/с · SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#🇳🇱 Нидерланды · Амстердам · 36 Мбит/с · SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#🇳🇱 Нидерланды · Амстердам · 35 Мбит/с · SS
+trojan://zViIBNyzxX1SgY8aOTMM72-Oy8O4PS89@153.76.161.159:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=stoic-ridge.freedomcdnhelloworld.com&fp=android#🇵🇱 Польша · Wyszków · 34 Мбит/с · TROJAN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#🇳🇱 Нидерланды · Амстердам · 30 Мбит/с · SS
+vless://43a26f1a-99b7-4b17-98c7-b836fb466999@217.60.52.143:443?security=reality&encryption=none&fm={"tcp":[{"settings":{"delays":["0","0"],"length":"256","packets":"tlshello","maxSplit":"2"},"type":"fragment"}]}&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=bg-adapt.static-s3.org&sid=486a1a9c7288b70e#🇧🇬 Болгария · Sofia · 26 Мбит/с · Reality
+hysteria2://ff0343ad-1c9f-4986-8c62-c01935b508ca@153.56.210.134:57251?sni=www.bing.com&obfs=salamander&obfs-password=0ee2089e-70df-4c30-bfea-1fb9be61d93e&insecure=1#🇹🇷 Турция · Анкара · 24 Мбит/с · QUIC
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.11.191:443?path=/vlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🇲🇾 MY · Shah Alam · 24 Мбит/с · TLS
+vless://5bfa133a-76d4-425c-b8d4-72cd2ff18198@182.16.62.14:443?type=tcp&security=reality&fp=chrome&pbk=npOtPP-gIOAg3Ltra8XJpvpIm3l4FtDKxqrUtSrPOT0&sid=f76d89d0&sni=cloudflare.com#🇭🇰 Гонконг · Cheung Sha Wan · 22 Мбит/с · Reality
+vless://8a2e5400-c81c-4b11-821c-f42d4710c469@api.mediaroshcha.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.mediaroshcha.cc&sid=a8&fp=chrome#🇦🇹 Австрия · Langenzersdorf · 21 Мбит/с · Reality
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?sni=lv2.nexfile.net&alpn=h3#🇱🇻 Латвия · Рига · 17 Мбит/с · QUIC
+vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@sub.vanta-vpn.pro:443?security=reality&encryption=none&pbk=t9P5O3qtmepuC7_xEJ4bRMOPMHDQSbFai3TiOsQXnhY&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sub.vanta-vpn.pro&sid=8b8d979d16d9dd3b#🌐 ? · 16 Мбит/с · Reality
+vless://43a26f1a-99b7-4b17-98c7-b836fb466999@31.58.178.10:443?security=reality&encryption=none&fm={"tcp":[{"settings":{"delays":["0","0"],"length":"256","packets":"tlshello","maxSplit":"2"},"type":"fragment"}]}&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de3.global-cdn.org&sid=f7d0420b8ab26060#🇩🇪 Германия · Франкфурт · 15 Мбит/с · Reality
+vless://c6438331-a79b-4471-fd5e-42c2eeac29fa@903.rtgpu.com:443?&security=tls&fp=chrome&sni=903.rtgpu.com&type=ws&headerType=none&host=903.rtgpu.com&path=%2Fnmd2#🇩🇪 Германия · Фалькенштайн · 14 Мбит/с · TLS
+vless://00d09ead-4080-4c39-a75d-be7dcabe77f4@217.19.122.170:2096?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=26eRxOLahaWymVv1f33Za0Cw56VDNJ8BN2bEKznW-m4&security=reality&sid=2a096f7b298d0aba&sni=bm8.hat.onl&type=raw#🇵🇱 Польша · Варшава · 14 Мбит/с · Reality
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.21.91.49:443?path=/vlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🇲🇾 MY · Shah Alam · 13 Мбит/с · TLS
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#🇭🇰 Гонконг · Гонконг · 12 Мбит/с · QUIC
+vless://43a26f1a-99b7-4b17-98c7-b836fb466999@31.59.205.4:443?security=reality&encryption=none&fm={"tcp":[{"settings":{"delays":["0","0"],"length":"256","packets":"tlshello","maxSplit":"2"},"type":"fragment"}]}&pbk=fz-ncRVRmWnpd2sFb5Q3bR3BQEdpL6N_zbDSD16g5QI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pl.global-cdn.org&sid=7a3f9e2b1c8d4f6a#🇵🇱 Польша · Gdansk · 12 Мбит/с · Reality
+vless://390fbb61-cbb2-48b0-a429-8dc0895b8fe0@brave-ploys.video-streams.org:443?encryption=none&type=ws&path=%2Fws&host=brave-ploys.video-streams.org&security=tls&sni=brave-ploys.video-streams.org&fp=chrome#🇺🇸 США · Bear · 11 Мбит/с · TLS
+vless://1753c03f-39c4-4bf2-ae83-38e90c847e8e@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=ydyg0908.mynameiszt.eu.org&sni=ydyg0908.mynameiszt.eu.org&fp=chrome&path=/?ed=2560#🇷🇺 Россия · Domodedovo · 10 Мбит/с · TLS
+hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#🇨🇭 Швейцария · Zurich · 9 Мбит/с · QUIC
+vless://03c478b6-93fb-43aa-9fa1-73ced8a13caf@185.229.9.135:443?security=tls&sni=lesotorg-kirov.ru&alpn=http%2F1.1&type=ws&path=%2Fchws&host=lesotorg-kirov.ru&fp=qq#🇷🇺 Россия · Москва · 8 Мбит/с · TLS
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#🇦🇺 Австралия · Сидней · 8 Мбит/с · QUIC
+hysteria2://1793747701%3A04cbffa7-bd2c-4a51-bf32-2253f4fbc1ab%3A98Va5kVHKW06htuFKRbjrX7rWPTNQI4Jlee5xTFNAW0@84.38.184.87:36116?sni=hu.lumacache.com&alpn=h3#🇭🇺 Венгрия · Budapest · 4 Мбит/с · QUIC
+hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?insecure=1&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42&sni=www.bing.com#🇸🇬 Сингапур · Сингапур · 3 Мбит/с · QUIC
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?encryption=none&security=reality&sni=a0688bt.us4.h1clayd.click&fp=ios&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&type=tcp&headerType=none#🇺🇸 США · Secaucus · 3 Мбит/с · Reality
+hy2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#🇺🇸 США · San Jose · 1 Мбит/с · QUIC
