@@ -1,19 +1,11 @@
-#profile-title: ⚡ VPN · 05.11 · до 75 Мбит/с
+#profile-title: ⚡ VPN · 05.11 · до 57 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 05.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://ea81763f-e534-4700-aa28-9ac98156771b@www.visa.com.hk:443?encryption=none&security=tls&sni=se-sto.862400.xyz&type=ws&host=se-sto.862400.xyz&path=%2Fannouncement%3Fed%3D2048#🇸🇪 Швеция · Stockholm · 75 Мбит/с · TLS
-vless://a456a2bc-4d75-427c-b8d5-39f62e79fc0a@uk.ui.skydown.info:80?type=xhttp&path=/yokoso/sharingan&host=uk.ui.skydown.info&security=reality&pbk=h_OMTyJA9NgPXJa59jvVvydKDz4L61upmQUae1sTTGU&fp=chrome&sni=www.sony.com&sid=86f88a262c1cbc56&spx=/&encryption=none#🇬🇧 Великобритания · Слау · 36 Мбит/с · Reality
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ee2.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=ee2.japancase.site&type=tcp&fp=ios#🇪🇪 Эстония · Таллин · 27 Мбит/с · Reality
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#🇩🇪 Германия · Франкфурт · 26 Мбит/с · Reality
-vless://2c366360-0333-4738-9423-6d5b378e3594@23.227.38.86:443?mode=multi&security=tls&encryption=none&type=ws&sni=uud01.gg9901.uk&path=%2Fimages&host=uud01.gg9901.uk&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query#🇺🇸 США · Лос-Анджелес · 22 Мбит/с · TLS
-vless://0a3432cd-74b8-413a-896d-f51492b030bc@104.160.44.254:443?security=reality&type=tcp&sni=portal.citygrainla.com&fp=firefox&flow=xtls-rprx-vision&sid=051f20c2344a2dfd&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE#🇺🇸 США · Лос-Анджелес · 17 Мбит/с · Reality
-vless://2c366360-0333-4738-9423-6d5b378e3594@hk.cf.877774.xyz:443?mode=multi&security=tls&encryption=none&type=ws&sni=eeeccc.tkgogocsgo.top&path=%2Fimages&host=eeeccc.tkgogocsgo.top&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query#🇭🇰 Гонконг · Гонконг · 15 Мбит/с · TLS
-vless://fc2d811f-3b7d-4706-9f46-d470255ef061@grok.com:2083?security=tls&type=ws&path=%2F7x&host=cdn.config7x.site&sni=cdn.config7x.site&fp=chrome&encryption=none#🇸🇪 Швеция · Stockholm · 14 Мбит/с · TLS
-vless://fc2d811f-3b7d-4706-9f46-d470255ef061@www.canva.com:8443?security=tls&type=ws&path=%2Fconfig7x&host=cdn.config7x.site&alpn=http%2F1.1%2Ch2&sni=cdn.config7x.site&fp=chrome&encryption=none#🇸🇪 Швеция · Stockholm · 12 Мбит/с · TLS
-vless://f8bdf363-ff05-4fe6-a013-a5605266657e@144.31.242.142:443?security=tls&type=xhttp&path=%2Fconv4%2Fstream%2Fd34366ecdd31367d0fc76955c6b8d77c&packetEncoding=xudp&alpn=h2&sni=883f1393.con.rasterparcel.tech&fp=firefox&mode=auto&encryption=none#🌐 ? · 12 Мбит/с · TLS
-hysteria2://qtMKhrFAMrVZUfupkc5CFHmRKYtNPSjt@165.154.193.165:443?insecure=1&obfs=salamander&obfs-password=d7897b996af77eeecb7ac010361d74fb#🇸🇬 Сингапур · Сингапур · 7 Мбит/с · QUIC
-vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@194.26.229.121:2095?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&serviceName=astracat&fp=ios#🇩🇪 Германия · Фалькенштайн · 3 Мбит/с · Reality
-hysteria2://Ya8s3KxQ9pLw2@64.90.0.30:443?insecure=1&sni=hk-node#🇭🇰 Гонконг · Гонконг · 2 Мбит/с · QUIC
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net&insecure=0#🇱🇻 Латвия · Рига · 1 Мбит/с · QUIC
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#🇩🇪 Германия · Франкфурт · 57 Мбит/с · Reality
+vless://2c366360-0333-4738-9423-6d5b378e3594@23.227.38.86:443?mode=multi&security=tls&encryption=none&type=ws&sni=uud01.gg9901.uk&path=%2Fimages&host=uud01.gg9901.uk&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query#🇺🇸 США · Лос-Анджелес · 24 Мбит/с · TLS
+vless://2c366360-0333-4738-9423-6d5b378e3594@hk.cf.877774.xyz:443?mode=multi&security=tls&encryption=none&type=ws&sni=eeeccc.tkgogocsgo.top&path=%2Fimages&host=eeeccc.tkgogocsgo.top&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query#🇭🇰 Гонконг · Гонконг · 17 Мбит/с · TLS
+vless://fc2d811f-3b7d-4706-9f46-d470255ef061@grok.com:2083?security=tls&type=ws&path=%2F7x&host=cdn.config7x.site&sni=cdn.config7x.site&fp=chrome&encryption=none#🇸🇪 Швеция · Stockholm · 11 Мбит/с · TLS
+vless://fc2d811f-3b7d-4706-9f46-d470255ef061@www.canva.com:8443?security=tls&type=ws&path=%2Fconfig7x&host=cdn.config7x.site&alpn=http%2F1.1%2Ch2&sni=cdn.config7x.site&fp=chrome&encryption=none#🇸🇪 Швеция · Stockholm · 7 Мбит/с · TLS
+hysteria2://Ya8s3KxQ9pLw2@64.90.0.30:443?insecure=1&sni=hk-node#🇭🇰 Гонконг · Гонконг · 1 Мбит/с · QUIC
