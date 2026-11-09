@@ -1,17 +1,11 @@
-#profile-title: ⚡ VPN · 09.11 · до 13 Мбит/с
+#profile-title: ⚡ VPN · 09.11 · до 44 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 09.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.112.134:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#🌐 ? · 13 Мбит/с · TLS
-vless://855c7aaa-e7d6-463e-971e-d36032744428@159.195.207.238:49313?encryption=none&amp;security=none&amp;type=tcp#🇩🇪 Германия · Нюрнберг · 11 Мбит/с · TLS
-vless://95f85937-7b95-45c4-8d69-95da6a978569@80.47.13.182:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=stats.v2.StreamService&allowInsecure=0&sni=dl.megadrishto.com#🇵🇱 Польша · Варшава · 10 Мбит/с · TLS
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.248.199:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#🌐 ? · 9 Мбит/с · TLS
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@177.3.252.45:443?security=tls&sni=zpir21x6v7y.hat.onl&alpn=h2%2Chttp%2F1.1&fp=qq&type=xhttp&host=zpir21x6v7y.hat.onl&path=%2Fhls%2Fe69b5vhh%2Fseg&mode=auto#🇵🇱 Польша · Варшава · 6 Мбит/с · TLS
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&type=ws&path=%2F&host=pcloud.z-tas.com&sni=pcloud.z-tas.com&fp=firefox&encryption=none#🇱🇰 LK · Sri Lanka · 5 Мбит/с · TLS
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#🌐 ? · 5 Мбит/с · Reality
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@tsjs9n5lm4r.apruxdomain.online:443?type=grpc&security=tls&fp=qq&sni=u209akv3ob.hat.onl&serviceName=v1.segment.9wLukD7VB0oToI10.ts#🇦🇪 ОАЭ · Abu Dhabi · 5 Мбит/с · TLS
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:48158?encryption=none&security=reality&sni=www.apple.com&fp=ios&type=tcp&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&flow=xtls-rprx-vision#🇦🇺 Австралия · Сидней · 5 Мбит/с · Reality
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@rh68x6kmi.apruxdomain.online:443?encryption=none&type=xhttp&security=tls&sni=zpir21x6v7y.hat.onl&fp=qq&alpn=h2%2Chttp/1.1&path=/hls/e69b5vhh/seg&host=zpir21x6v7y.hat.onl&mode=auto#🇵🇱 Польша · Варшава · 3 Мбит/с · TLS
-hysteria2://65ec84f5-0dd4-4582-8b4f-592e50b22116@23.156.153.18:38080?sni=hk-mm2.473221.xyz&obfs=salamander&obfs-password=qzOK2ChVkFhEdqn1#🇭🇰 Гонконг · Гонконг · 2 Мбит/с · QUIC
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.102:4444?sni=pl1.nexfile.net#🇵🇱 Польша · Варшава · 1 Мбит/с · QUIC
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#🇳🇱 Нидерланды · Амстердам · 44 Мбит/с · Reality
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:48158?encryption=none&security=reality&sni=www.apple.com&fp=ios&type=tcp&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&flow=xtls-rprx-vision#🇦🇺 Австралия · Сидней · 19 Мбит/с · Reality
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@188.114.99.157:8443?fp=firefox&host=moz.ar-marz.fun&path=%2Fman&security=tls&sni=moz.ar-marz.fun&type=ws#🇩🇪 Германия · Нюрнберг · 9 Мбит/с · TLS
+vless://d5748db0-0031-4b9e-b43c-6c3986a9b5ed@n2.topingr.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=riga.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=riga.zovip2.ir#🇹🇷 Турция · Стамбул · 9 Мбит/с · TLS
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&security=tls&sni=images.mediacorphub.org&fp=chrome&type=grpc&authority=&serviceName=stats.v2.StreamService&mode=gun#🇳🇱 Нидерланды · Enschede · 5 Мбит/с · TLS
+vless://67d258aa-fffa-45f7-953e-58cd000082e6@196.245.217.70:443?security=reality&encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&headerType=none&fp=chrome&type=tcp&sni=15d7fft.nl11.h1clayd.click&sid=c71118d9399fb8c2#🇧🇾 BY · Минск · 5 Мбит/с · Reality
