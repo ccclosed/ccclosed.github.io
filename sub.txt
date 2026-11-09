@@ -1,11 +1,17 @@
-#profile-title: ⚡ VPN · 09.11 · до 44 Мбит/с
+#profile-title: ⚡ VPN · 09.11 · до 30 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 09.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#🇳🇱 Нидерланды · Амстердам · 44 Мбит/с · Reality
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:48158?encryption=none&security=reality&sni=www.apple.com&fp=ios&type=tcp&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&flow=xtls-rprx-vision#🇦🇺 Австралия · Сидней · 19 Мбит/с · Reality
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@188.114.99.157:8443?fp=firefox&host=moz.ar-marz.fun&path=%2Fman&security=tls&sni=moz.ar-marz.fun&type=ws#🇩🇪 Германия · Нюрнберг · 9 Мбит/с · TLS
-vless://d5748db0-0031-4b9e-b43c-6c3986a9b5ed@n2.topingr.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=riga.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=riga.zovip2.ir#🇹🇷 Турция · Стамбул · 9 Мбит/с · TLS
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&security=tls&sni=images.mediacorphub.org&fp=chrome&type=grpc&authority=&serviceName=stats.v2.StreamService&mode=gun#🇳🇱 Нидерланды · Enschede · 5 Мбит/с · TLS
-vless://67d258aa-fffa-45f7-953e-58cd000082e6@196.245.217.70:443?security=reality&encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&headerType=none&fp=chrome&type=tcp&sni=15d7fft.nl11.h1clayd.click&sid=c71118d9399fb8c2#🇧🇾 BY · Минск · 5 Мбит/с · Reality
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#🇳🇱 Нидерланды · Амстердам · 30 Мбит/с · Reality
+vless://54847525-04b2-47ec-b05e-266d37bc8715@144.31.51.81:33517?encryption=none&fp=firefox&pbk=baHq6sp0MwdJZbXy6AQGHi6szdmUzx6Xk5RRiTQ1XUw&security=reality&sid=6f&sni=api15.yandex-cdn-mirror.ru&type=xhttp#🇳🇱 Нидерланды · Амстердам · 30 Мбит/с · Reality
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.61:443?security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&host=ovd10.global.ssl.fastly.net&path=%2F&mode=auto&encryption=none#🇫🇷 Франция · Roubaix · 28 Мбит/с · TLS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgwNmEyZTRjMzk0NWY0YmEwOGJlYWRlOGQ3MWQ0ZQ@5.202.11.137:555#🇩🇪 Германия · Фалькенштайн · 23 Мбит/с · SS
+vless://4ad9f982-b56a-444a-9684-35ce51307a36@109.172.114.57:2058?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&sni=www.cloudflare.com#🇨🇭 Швейцария · Geneva · 20 Мбит/с · Reality
+vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:13239?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=NJgrmuV1CFhj7PeKJoQfDQVagDcFITkfrM-a7sa_mWw&sid=8591c4d31f59a60d&sni=updates.cdn-apple.com&servername=updates.cdn-apple.com&spx=/&fp=chrome#🇹🇼 Тайвань · Taipei · 17 Мбит/с · Reality
+vless://bb3723d7-462e-442c-9472-496750476f45@94.183.157.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VrMjCVfS9bVTnIr2X_zBMIJylL5AMPMJoiwW14kyyjY&security=reality&sid=b5e4cbe5fea54f53&sni=dir-pl2.filesapp.org&type=tcp#🇵🇱 Польша · Варшава · 10 Мбит/с · Reality
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@186.246.16.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FFsBozg2vRN-wNNsv6Y97sbr4EF5aIHiYF7-xHa_9Fk&security=reality&sni=usatimewebnew.space&type=tcp#🇺🇸 США · Buffalo · 9 Мбит/с · Reality
+vless://bb3723d7-462e-442c-9472-496750476f45@179.254.170.73:443?flow=xtls-rprx-vision&security=reality&sni=dir-de7.filesapp.org&fp=firefox&pbk=8JqBmPXSb2aGu8IzkxkfLo_CkxGzq6Zjjbn6HnU3Tn8&sid=e686927aa82c825d#🇩🇪 Германия · Франкфурт · 6 Мбит/с · Reality
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:48158?encryption=none&security=reality&sni=www.apple.com&fp=ios&type=tcp&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&flow=xtls-rprx-vision#🇦🇺 Австралия · Сидней · 6 Мбит/с · Reality
+vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@nep.qiksme.com:443?mode=stream-one&path=%2Fstatic%2Fjs%2Fchunk&security=tls&encryption=none&insecure=0&host=nep.qiksme.com&fp=qq&type=xhttp&allowInsecure=0&sni=nep.qiksme.com#🇳🇱 Нидерланды · Амстердам · 4 Мбит/с · TLS
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.88:443?security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&host=ovd5.global.ssl.fastly.net&path=%2F&mode=auto&encryption=none#🇫🇷 Франция · Roubaix · 4 Мбит/с · TLS
