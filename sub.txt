@@ -1,26 +1,27 @@
-#profile-title: ⚡ VPN · 11.11 · до 48 Мбит/с
+#profile-title: ⚡ VPN · 11.11 · до 74 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 11.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.96:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qkwh_hd7pYmvQcABVy4IHMF9l_RtAOqqFqRhkRBVyQI&security=reality&sid=e114741e080317d4&sni=tgnl.blog-forme.ru&type=tcp#🇮🇷 IR · Tehran · 48 Мбит/с · Reality
-ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc@209.248.57.105:8388?#🇭🇰 Гонконг · Гонконг · 22 Мбит/с · SS
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇮🇷 IR · Tehran · 19 Мбит/с · TLS
-vless://9a46fb8c-fde6-492c-b5c6-8b44af0ce75f@151.101.36.246:443?security=tls&sni=accounts.fastly.com&type=xhttp&host=ovd12.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&encryption=none#🇫🇷 Франция · Roubaix · 19 Мбит/с · TLS
-vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия · Bengaluru · 15 Мбит/с · TLS
-vless://b8d08151-73bd-4567-afac-8b4a01daff78@141.193.154.198:443?type=raw&security=reality&fp=chrome&pbk=ZsBXnmtXqG_bOX7M10A1DGtds_Ch-NuvJNlGNl9-OEU&sid=be4d24310c27&sni=cloudflare.com#🇺🇸 США · Лос-Анджелес · 14 Мбит/с · Reality
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@nl4.gacvpn.site:443?encryption=none&path=%2Fstatic%2Fjs%2Fvendor.cc1645b6.js%3Fed%3D2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇮🇷 IR · Tehran · 12 Мбит/с · TLS
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.205.233:80?encryption=none&security=none&type=tcp&headerType=none#🇨🇦 Канада · Montreal · 12 Мбит/с · TLS
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.222.9.129:80?encryption=none&security=none&type=tcp&headerType=none#🇨🇦 Канада · Montreal · 12 Мбит/с · TLS
-vless://6f6731ba-cb54-4c47-840d-7b0a66c8a661@cdn-nl.vpnserverhub.com:8080?path=%2Fvpn-secure-cdn&security=&type=ws#🇳🇱 Нидерланды · Амстердам · 10 Мбит/с · TLS
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@35.183.244.118:80?encryption=none&security=none&type=tcp&headerType=none#🇨🇦 Канада · Montreal · 10 Мбит/с · TLS
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@50.7.178.197:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-fr&sni=fr2.gacvpn.site&type=grpc#🇳🇱 Нидерланды · Halfweg · 9 Мбит/с · TLS
-vless://ba4e5cac-7af3-4fd3-9e0b-9020773d3dda@067fbbt.de18.h1clayd.click:443?type=tcp&security=reality&sni=067fbbt.de18.h1clayd.click&fp=firefox&pbk=ct9Ige1sXFGo-NbfxuJPlzKPvkfIilk43aQkHvLy4j0&sid=ca149dddcfd0deca&spx=%2F&encryption=none#🇩🇪 Германия · Франкфурт · 5 Мбит/с · Reality
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&encryption=none&type=tcp#🇨🇭 Швейцария · Geneva · 4 Мбит/с · Reality
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.201:443?alpn=h3&encryption=none&host=oh6.global.ssl.fastly.net&mode=auto&path=%2F&security=tls&sni=accounts.fastly.com&type=xhttp&fp=edge#🇫🇷 Франция · Roubaix · 4 Мбит/с · TLS
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru#🇳🇱 Нидерланды · Амстердам · 4 Мбит/с · QUIC
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&fp=firefox#🇫🇮 Финляндия · Хельсинки · 4 Мбит/с · QUIC
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@138.124.242.46:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-pl&sni=pl2-edge.gacvpn.site&type=grpc#🇵🇱 Польша · Варшава · 3 Мбит/с · TLS
-hysteria2://4b13c29ebe735e47@213.21.232.4:443?sni=mytubeproxy10.duckdns.org#🇵🇱 Польша · Варшава · 2 Мбит/с · QUIC
-hysteria2://4b13c29ebe735e47@mytubeproxy10.duckdns.org:443?alpn=h3&fp=firefox&security=tls&sni=mytubeproxy10.duckdns.org#🇵🇱 Польша · Варшава · 1 Мбит/с · QUIC
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru#🇳🇱 Нидерланды · Амстердам · 2 Мбит/с · QUIC
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@50.7.178.197:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-fr&sni=fr2.gacvpn.site&type=grpc#🇳🇱 Нидерланды · Halfweg · 74 Мбит/с · TLS
+vless://a0b0d832-b81d-49b1-bd28-b642292df536@199.232.207.166:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=yeternek-blookwn.net&path=%2F#🇳🇱 Нидерланды · Амстердам · 68 Мбит/с · TLS
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.201:443?alpn=h3&encryption=none&host=oh6.global.ssl.fastly.net&mode=auto&path=%2F&security=tls&sni=accounts.fastly.com&type=xhttp&fp=edge#🇫🇷 Франция · Roubaix · 46 Мбит/с · TLS
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@verbena.keyhit.top:443?mode=gun&security=reality&encryption=none&pbk=cqpkt5cXnUXZ25PAFnQzFZfcgD6_gqsFEJGbiQSEExM&fp=chrome&type=grpc&serviceName=grpc&sni=verbena.keyhit.top&sid=1cdbb2b216944016#🇳🇱 Нидерланды · Амстердам · 39 Мбит/с · Reality
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js?ed=2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇮🇷 IR · Tehran · 36 Мбит/с · TLS
+vless://c1208c5a-2350-0003-affd-fc41b4319286@85.234.100.32:443?encryption=none&fp=firefox&host=decdn-28.nome-rkp.net&path=/media/ws/&security=tls&sni=decdn-28.nome-rkp.net&type=ws#🇮🇳 Индия · Bengaluru · 33 Мбит/с · TLS
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@nl4.gacvpn.site:443?encryption=none&path=%2Fstatic%2Fjs%2Fvendor.cc1645b6.js%3Fed%3D2048&security=tls&sni=nl4.gacvpn.site&type=ws#🇮🇷 IR · Tehran · 29 Мбит/с · TLS
+vless://2006aa32-9ba2-4fe0-bd3d-3deaceb621e1@129.153.128.162:853?security=none&type=ws&path=%2Fws&host=firsty.app&encryption=none#🇺🇸 США · Ашберн · 26 Мбит/с · TLS
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.205.233:80?encryption=none&security=none&type=tcp&headerType=none#🇨🇦 Канада · Montreal · 25 Мбит/с · TLS
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&sid=986ede37bf6925ae&sni=pl-b1.golangwikito.cfd#🇩🇪 Германия · Франкфурт · 20 Мбит/с · Reality
+vless://1751bebc-1bf1-420c-8b9d-97157aad179b@168.110.21.56:18453?security=none&type=tcp&encryption=none#🇯🇵 Япония · Tokyo · 17 Мбит/с · TLS
+vless://d8fc873b-860d-4490-b2f0-300d6ae3c2d3@168.110.48.252:10018?security=reality&type=tcp&sni=www.ebay.com&fp=firefox&flow=xtls-rprx-vision&pbk=YxoFVB0NhCx4BJCgq5Ey5jdteRU2H2toGa-ZKW5XV3c#🇯🇵 Япония · Tokyo · 16 Мбит/с · Reality
+vless://e668c236-dead-4ea2-8a99-812a738afd13@129.146.5.35:20000?security=reality&type=tcp&sni=tesla.com&fp=firefox&sid=144d7588628c0387&pbk=aCKxBnWGJSFRLP1TC7cvV6lwNBsEdrW3fIqRnVD131w#🇺🇸 США · Финикс · 16 Мбит/с · Reality
+vless://9e9e7dee-684e-4065-afc2-1f139faaa6b0@168-110-32-255.sslip.io:443?security=tls&type=ws&path=%2Fray&sni=168-110-32-255.sslip.io&fp=chrome&encryption=none#🇯🇵 Япония · Tokyo · 15 Мбит/с · TLS
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YyMTIxNzEgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvTG9uVXBfTSIsICJhZGQiOiAiYm1pMi5rb2xtYW4uY29tLmRlIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYTU2NDk4N2EtMzgwYS00YzIxLWE0NjItYTAxMTg2M2NhOWJlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ6ZW82LWx5bHAudXRpLnJlYWxvc2xvLW5vcmcubWFuaXlhZGc3c2hhcmQuaXIuIiwgInBhdGgiOiAiL2Y5YkdiRzdaTnk1TDB0elhLWk54U1g0cSIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9#🇫🇮 Финляндия · Хельсинки · 15 Мбит/с · VMESS
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 США · Secaucus · 15 Мбит/с · Reality
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh6YyMTIxNzAgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvTG9uVXBfTSIsICJhZGQiOiAiY2QwLmJtaS5pci5rb2xtYW4uY29tLmRlIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYTU2NDk4N2EtMzgwYS00YzIxLWE0NjItYTAxMTg2M2NhOWJlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJibWkuaXIuZHJhZnQuY28uaW1wb3NzaWJsZS5jb20uaXIuYm1pLmlyLmNvbS5pcmFuLmlyNi5pZmlsbWluby5jb20uIiwgInBhdGgiOiAiL2Y5YkdiRzdaTnk1TDB0elhLWk54U1g0cSIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9#🇫🇮 Финляндия · Хельсинки · 14 Мбит/с · VMESS
+vmess://eyJ2IjoiMiIsInBzIjoiVEgg8J+HufCfh60gfCBAUmF5ZGlrYWx4IHwgODU3NjgzIiwiYWRkIjoiOC4yMTMuMjA5LjEiLCJwb3J0IjoiMTg5MTgiLCJpZCI6IjZkNjQ3ODlhLTRkNWUtNGVmNy1jOWFjLTBmYzU0M2I0ZTYzNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9#🇹🇭 Таиланд · Bangkok · 13 Мбит/с · VMESS
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.222.9.129:80?security=none&type=tcp#🇨🇦 Канада · Montreal · 9 Мбит/с · TLS
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@35.183.244.118:80?encryption=none&security=none&type=tcp&headerType=none#🇨🇦 Канада · Montreal · 6 Мбит/с · TLS
+ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc@209.248.57.105:8388?#🇭🇰 Гонконг · Гонконг · 3 Мбит/с · SS
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru#🇳🇱 Нидерланды · Амстердам · 5 Мбит/с · QUIC
