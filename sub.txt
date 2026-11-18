@@ -1,26 +1,13 @@
-#profile-title: ⚡ VPN · 18.11 · до 53 Мбит/с
+#profile-title: ⚡ VPN · 19.11 · до 8 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
-#announce: Отбор 18.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@50.7.87.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v2.atlanta-games.com&type=tcp#🌐 ? · 53 Мбит/с · TLS · ✅RU
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.9:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=net-rt-mgr.galioncc.com&type=tcp#🇩🇪 Германия · Франкфурт · 51 Мбит/с · Reality · ✅RU
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.177.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RAAelLRnSImkMKUKvue_QLRljXL6bTgJqXyCkCuhugo&security=reality&sni=gmghhb.wey-land.net&type=tcp#🇳🇱 Нидерланды · Halfweg · 43 Мбит/с · Reality · ✅RU
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.13:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=svc-ns-cfg.galioncc.com&type=tcp#🇩🇪 Германия · Франкфурт · 42 Мбит/с · Reality · ✅RU
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.10:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=net-rt-mgr.galioncc.com&type=tcp#🇩🇪 Германия · Франкфурт · 41 Мбит/с · Reality · ✅RU
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@67.159.17.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSxFQHVt_avgBDW1Rbbn0SBDidOEftqHgAF9NH565kM&security=reality&sni=sdfsdfsf.wey-land.net&type=tcp#🇦🇹 Австрия · Langenzersdorf · 41 Мбит/с · Reality · ✅RU
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.178.249:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zl6T6h_nimHv6mo1ftpXHJUFuiMovjMiAlOZIjY71kQ&security=reality&sni=sdfsdfb.wey-land.net&type=tcp#🇳🇱 Нидерланды · Halfweg · 40 Мбит/с · Reality · ✅RU
-vless://7def466a-5810-47cd-b56a-402f28dd03bf@trn37.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&security=reality&sid=f88610dd&sni=delivery.mp.microsoft.com&type=tcp#🇹🇷 Турция · Стамбул · 36 Мбит/с · Reality · ✅RU
-vless://4c26228c-a8f4-439a-b202-33d2babe3e57@kfldderwefcf-production.up.railway.app:443?path=/api/P1LI88&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=kfldderwefcf-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=kfldderwefcf-production.up.railway.app#🇳🇱 Нидерланды · Амстердам · 33 Мбит/с · TLS · ✅RU
-vless://f203fd20-2c61-4b6e-a8a7-75e9581e497b@187.54.4.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&security=reality&sid=486a1a9c7288b70e&sni=bg-adapt.static-s3.org&type=tcp#🇺🇸 США · Вашингтон · 32 Мбит/с · Reality · ✅RU
-vless://7def466a-5810-47cd-b56a-402f28dd03bf@ai.code-academy.ir:8080?alpn=http%2F1.1&encryption=none&fp=ios&host=dl.code-academy.ir&path=%2F%3Fed%3D2048&security=tls&sni=dl.code-academy.ir&type=ws#🇺🇸 США · Ашберн · 29 Мбит/с · TLS · ✅RU
-vless://827f83a5-795f-400d-863f-a65e79d1fff6@87.120.106.95:443?mode=auto&path=/&security=reality&encryption=none&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&host=repost.uz&fp=chrome&type=xhttp&sni=repost.uz#🇺🇸 США · Bear · 23 Мбит/с · Reality · ✅RU
-vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@185.206.92.107:3134?encryption=none&fp=firefox&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&security=reality&sid=e9b64ca7d55f2672&sni=aparat.com&type=tcp#🌐 ? · 6 Мбит/с · Reality · ✅RU
-vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@78ec29x.fi2.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=WCuIW5EhUUfvOtDeVO-M7NjwXaE20zinTv3rpQ9erxs&security=reality&sid=6f2d8ece33a96159&sni=78ec29x.fi2.h1clayd.click&spx=%2F&type=xhttp&fp=safari#🇫🇮 Финляндия · Хельсинки · 4 Мбит/с · Reality · ✅RU
-vless://134bdd1a-699c-4dc1-9b0b-8ebea176bd35@51.20.128.233:20005?encryption=none&security=none&type=tcp#🇵🇱 Польша · Варшава · 2 Мбит/с · TLS · ✅RU
-vless://134bdd1a-699c-4dc1-9b0b-8ebea176bd35@51.20.128.233:20006?encryption=none&security=none&type=tcp#🇳🇴 Норвегия · Oslo · 2 Мбит/с · TLS · ✅RU
-vless://134bdd1a-699c-4dc1-9b0b-8ebea176bd35@51.20.128.233:20007?encryption=none&security=none&type=tcp#🇨🇭 Швейцария · Zurich · 2 Мбит/с · TLS · ✅RU
-vless://a30903dc-1bf0-0003-8b1b-603a3a56211c@48.103.120.22:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=svc-net-ctl.galioncc.com&type=tcp#🇪🇬 EG · Cairo · 1 Мбит/с · Reality · ✅RU
-vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=firefox#🇫🇮 Финляндия · Хельсинки · 0 Мбит/с · Reality · ✅RU
-vless://134bdd1a-699c-4dc1-9b0b-8ebea176bd35@51.20.128.233:20008?encryption=none&security=none&type=tcp#🇸🇬 Сингапур · Сингапур · 0 Мбит/с · TLS · ✅RU
-vless://fa937345-6d3e-4ff4-8127-1a836987a0db@cloudehouse24.ru:8443?encryption=none&type=ws&path=%2Fv1%2Fassets%2F7c3f9a2e6b4d8f10%2Fnl.js&host=cloudehouse24.ru&security=tls&sni=cloudehouse24.ru&fp=chrome#🌐 ? · 0 Мбит/с · TLS · ✅RU
+#announce: Отбор 19.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 Сингапур · Сингапур · 8 Мбит/с · QUIC · ✅RU
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 Сингапур · Сингапур · 7 Мбит/с · QUIC · ✅RU
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#🇸🇬 Сингапур · Сингапур · 7 Мбит/с · QUIC · ✅RU
+hy2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#🇺🇸 США · San Jose · 1 Мбит/с · QUIC · ✅RU
+hysteria2://hAUdd15a7YGHUSgiPOUz@43.103.2.53:443?insecure=1&obfs=salamander&obfs-password=9veAh9pTbrAfDwM1fIYI#🇭🇰 Гонконг · Гонконг · 0 Мбит/с · QUIC · ✅RU
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@78ec29x.fi2.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=WCuIW5EhUUfvOtDeVO-M7NjwXaE20zinTv3rpQ9erxs&security=reality&sid=6f2d8ece33a96159&sni=78ec29x.fi2.h1clayd.click&spx=%2F&type=xhttp&fp=safari#🌐 ? · 1 Мбит/с · Reality
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=firefox#🌐 ? · 0 Мбит/с · Reality
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#🌐 ? · 0 Мбит/с · QUIC
