@@ -1,12 +1,13 @@
-#profile-title: ⚡ VPN · 19.11 · до 45 Мбит/с
+#profile-title: ⚡ VPN · 19.11 · до 9 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 19.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://6fca8bc6-d365-4ae8-b2a4-4218526efde8@cdn324.whitenw.net:8444?security=reality&encryption=none&pbk=nOMWYHoXc-7jjG7opszDSvmGwQk9tWkLgQ_bnLPXAnU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision-udp443&sni=passport.yandex.ru&sid=5e880b8b43771a4f#🇩🇪 Германия · Франкфурт · 45 Мбит/с · Reality · ✅RU
-vless://17f3c566-b6c3-42f4-a098-b2f5374339a8@185.210.155.38:443?encryption=none&fp=safari&mode=packet-up&path=%2F&pbk=gF44pErBRsCwFGY398I654T5EBhcB6sryObLgcqxTSI&security=reality&sid=41b779&sni=cira.ca&spx=%2F5bd05a8ad2234b2&type=xhttp#🇵🇦 PA · Panama City · 32 Мбит/с · Reality · ✅RU
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@178.17.52.31:2087?fp=firefox&path=%2Fv2%2Fsync%2F6e9367&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&security=reality&sid=3258252d44113e23&sni=maps.blog-forme.ru&type=xhttp&encryption=none#🇩🇪 Германия · Франкфурт · 30 Мбит/с · Reality · ✅RU
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC · ✅RU
-vless://5fb77c9c-4f76-40f6-b70e-ab8ca791ec51@2.56.124.156:777?security=reality&sni=it.nvidia.com&fp=firefox&pbk=Z958x-3FuIf1ycHKziGQrXVn7OcXSo9VlSnNOicI7TI&sid=3732&type=grpc&encryption=none#🇺🇸 США · Charlotte · 4 Мбит/с · Reality · ✅RU
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@136.234.9.14:25035?encryption=none&fp=firefox&path=%2Fastral-edge-h1&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&security=reality&sid=eb63581de991f8c8&sni=96f799r.ch5.h1clayd.click&type=xhttp#🇨🇭 Швейцария · Zurich · 0 Мбит/с · Reality · ✅RU
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fl-b2.golangwikito.cfd:61374?encryption=none&type=xhttp&security=reality&sni=fl-b2.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&fp=firefox&spx=/&path=/&host=fl-b2.golangwikito.cfd&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D#🌐 ? · 0 Мбит/с · Reality
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC · ✅RU
+hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?sni=xship.top&insecure=1#🇺🇸 США · San Jose · 2 Мбит/с · QUIC · ✅RU
+vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#🇵🇱 Польша · Варшава · 1 Мбит/с · Reality · ✅RU
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇩🇪 Германия · Франкфурт · 1 Мбит/с · Reality · ✅RU
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#🇸🇬 Сингапур · Сингапур · 0 Мбит/с · Reality · ✅RU
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇭🇰 Гонконг · Гонконг · 1 Мбит/с · Reality
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@153.56.230.77:25155?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM&security=reality&sid=0ebb438948cdf356&sni=48688cr.us12.h1clayd.click&type=xhttp#🌐 ? · 0 Мбит/с · Reality
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🌐 ? · 0 Мбит/с · Reality
