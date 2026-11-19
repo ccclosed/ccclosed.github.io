@@ -1,13 +1,9 @@
-#profile-title: ⚡ VPN · 19.11 · до 9 Мбит/с
+#profile-title: ⚡ VPN · 19.11 · до 37 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 19.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC · ✅RU
-hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?sni=xship.top&insecure=1#🇺🇸 США · San Jose · 2 Мбит/с · QUIC · ✅RU
-vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#🇵🇱 Польша · Варшава · 1 Мбит/с · Reality · ✅RU
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇩🇪 Германия · Франкфурт · 1 Мбит/с · Reality · ✅RU
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#🇸🇬 Сингапур · Сингапур · 0 Мбит/с · Reality · ✅RU
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇭🇰 Гонконг · Гонконг · 1 Мбит/с · Reality
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@153.56.230.77:25155?encryption=none&fp=firefox&path=/astral-edge-h1&pbk=I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM&security=reality&sid=0ebb438948cdf356&sni=48688cr.us12.h1clayd.click&type=xhttp#🌐 ? · 0 Мбит/с · Reality
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🌐 ? · 0 Мбит/с · Reality
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMG94UFZiTDNpd1dHbHVLdGZHVk9CcGRCTUkzanYzdA==@bash.mrvservice.ir:3230#🇩🇪 Германия · Нюрнберг · 37 Мбит/с · SS · ✅RU
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNjQ2XHUwNjI3XHUwNjQ1XHUwNjM0XHUwNjJlXHUwNjM1IFx1ZDgzY1x1ZGZmM1x1ZmUwZiB8IEBHZXRYQ29uZmlnIHwgIzEzMzUzIiwgImFkZCI6ICJwcm9jZWVkLWVudGVyZWQtdG9tYXRvLWN0cmwudHJ5Y2xvdWRmbGFyZS5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJwcm9jZWVkLWVudGVyZWQtdG9tYXRvLWN0cmwudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogInByb2NlZWQtZW50ZXJlZC10b21hdG8tY3RybC50cnljbG91ZGZsYXJlLmNvbSJ9#🇭🇰 Гонконг · Гонконг · 20 Мбит/с · VMESS · ✅RU
+vless://b004e898-f6cf-54a5-d281-f063d741ad53@xray-ckc68nno-swift-harbor-8.cloady.io:443?type=ws&path=%2F3e0261245277336d&host=xray-ckc68nno-swift-harbor-8.cloady.io&security=tls&sni=xray-ckc68nno-swift-harbor-8.cloady.io&fp=chrome#🌐 ? · 0 Мбит/с · TLS
+vless://109fe686-024c-48cf-8f74-6a8e938a0464@24c-48cf-8-de-d.vitaminp.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=24c-48cf-8-de-d.vitaminp.ir#🌐 ? · 0 Мбит/с · TLS
