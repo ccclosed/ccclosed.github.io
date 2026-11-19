@@ -1,9 +1,12 @@
-#profile-title: ⚡ VPN · 19.11 · до 23 Мбит/с
+#profile-title: ⚡ VPN · 19.11 · до 42 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 19.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#🇯🇵 Япония · Tokyo · 23 Мбит/с · TLS · ✅RU
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@54.168.42.108:80?encryption=none&security=none&type=tcp&headerType=none#🇯🇵 Япония · Tokyo · 5 Мбит/с · TLS · ✅RU
-vless://d38b03c3-ff14-4ee0-80de-cd089f84ee38@www.visa.com.hk:443?encryption=none&security=tls&sni=it-mil.862400.xyz&fp=random&type=ws&host=it-mil.862400.xyz&path=%2Fannouncement%3Fed%3D2048#🌐 ? · 0 Мбит/с · TLS
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.0.1:2052?security=none&type=ws&path=%2Frain1226&host=eu02.123450908.xyz&packetEncoding=none#🌐 ? · 0 Мбит/с · TLS
+vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=se1.v2less.site&path=%2Fvless&security=tls&sni=se1.v2less.site&type=ws&allowInsecure=1&insecure=1#🇸🇪 Швеция · Stockholm · 42 Мбит/с · TLS · ✅RU
+vmess://eyJhZGQiOiJzaWRlamNkZHJld2ZkLXByb2R1Y3Rpb24udXAucmFpbHdheS5hcHAiLCJhaWQiOiIwIiwiaG9zdCI6InNpZGVqY2RkcmV3ZmQtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsImlkIjoiY2JhN2E0MTMtYmYzZS00Mzg2LWE4ZjAtNjZhMzkwNTk4ODQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS94R0VKM3giLCJwb3J0IjoiNDQzIiwicHMiOiLwn5GJ8J+GlEBHb29kYmF5ZV9maWx0ZXJpbmdcbvCfk6Hwn4e68J+HuCDYotmF2LHbjNqp2KdcbsKu77iPUmFpbHdheVxu8J+Fv++4j3Bpbmc6MTI4bXNcbuKaoVZJUCBTdHJpY3QgfCBWTUVTUyBJUHY0Iiwic2N5IjoiYXV0byIsInNuaSI6InNpZGVqY2RkcmV3ZmQtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ#🇳🇱 Нидерланды · Амстердам · 27 Мбит/с · VMESS · ✅RU
+vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCA3REEzRDgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#🌐 ? · 23 Мбит/с · VMESS
+vmess://eyJhZGQiOiIxNzIuNjQuMTQ1LjkzIiwiYWlkIjowLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCA0MDgxMDYiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJndWFud2FuZy5hd3Nuby5jb20iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9#🌐 ? · 22 Мбит/с · VMESS
+trojan://pR320Cwdj7mJ9HKc_UVz-VJyuecT4qdh@91.240.87.108:443?security=tls&sni=z40.tgnn.live&fp=firefox&type=tcp#🌐 ? · 0 Мбит/с · TROJAN
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.18.0.181:2052?security=none&type=ws&path=%2Frain1226&host=eu02.123450908.xyz#🇩🇪 Германия · Leipzig · 0 Мбит/с · TLS
+vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMjJGODBDIiwiYWRkIjoiY2RuLnNmYWNnLnVrIiwicG9ydCI6MjA4MywiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoib3IzLnNmYWNnLnVrIiwicGF0aCI6Ii9vcjMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMjJGODBDIn0=#🇯🇵 Япония · Tokyo · 0 Мбит/с · VMESS
