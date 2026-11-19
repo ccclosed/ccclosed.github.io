@@ -1,9 +1,11 @@
-#profile-title: ⚡ VPN · 19.11 · до 37 Мбит/с
+#profile-title: ⚡ VPN · 19.11 · до 5 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 19.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMG94UFZiTDNpd1dHbHVLdGZHVk9CcGRCTUkzanYzdA==@bash.mrvservice.ir:3230#🇩🇪 Германия · Нюрнберг · 37 Мбит/с · SS · ✅RU
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNjQ2XHUwNjI3XHUwNjQ1XHUwNjM0XHUwNjJlXHUwNjM1IFx1ZDgzY1x1ZGZmM1x1ZmUwZiB8IEBHZXRYQ29uZmlnIHwgIzEzMzUzIiwgImFkZCI6ICJwcm9jZWVkLWVudGVyZWQtdG9tYXRvLWN0cmwudHJ5Y2xvdWRmbGFyZS5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJwcm9jZWVkLWVudGVyZWQtdG9tYXRvLWN0cmwudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogInByb2NlZWQtZW50ZXJlZC10b21hdG8tY3RybC50cnljbG91ZGZsYXJlLmNvbSJ9#🇭🇰 Гонконг · Гонконг · 20 Мбит/с · VMESS · ✅RU
-vless://b004e898-f6cf-54a5-d281-f063d741ad53@xray-ckc68nno-swift-harbor-8.cloady.io:443?type=ws&path=%2F3e0261245277336d&host=xray-ckc68nno-swift-harbor-8.cloady.io&security=tls&sni=xray-ckc68nno-swift-harbor-8.cloady.io&fp=chrome#🌐 ? · 0 Мбит/с · TLS
-vless://109fe686-024c-48cf-8f74-6a8e938a0464@24c-48cf-8-de-d.vitaminp.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=24c-48cf-8-de-d.vitaminp.ir#🌐 ? · 0 Мбит/с · TLS
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@54.168.42.108:80?encryption=none&security=none&type=tcp&headerType=none#🇯🇵 Япония · Tokyo · 5 Мбит/с · TLS · ✅RU
+vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@94.249.198.124:31652?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇨🇭 Швейцария · Берн · 0 Мбит/с · TLS · ✅RU
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.0.1:2052?security=none&type=ws&path=%2Frain1226&host=eu02.123450908.xyz&packetEncoding=none#🌐 ? · 0 Мбит/с · TLS
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.150.43:2052?host=eu02.123450908.xyz&path=%2Frain1226&security=none&type=ws#🌐 ? · 0 Мбит/с · TLS
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=%2Frain1226#🇩🇪 Германия · Leipzig · 0 Мбит/с · TLS
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.67.146.84:2052?type=ws&host=eu02.123450908.xyz&path=%2Frain1226#🌐 ? · 0 Мбит/с · TLS
