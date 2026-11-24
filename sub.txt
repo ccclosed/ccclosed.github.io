@@ -1,17 +1,13 @@
-#profile-title: ⚡ VPN · 24.11 · до 50 Мбит/с
+#profile-title: ⚡ VPN · 24.11 · до 20 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 24.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://391a32c6-084c-4d61-8e8d-472678021dac@se.extremumnews.com:6443?type=grpc&security=reality&sni=download.virtualbox.org&serviceName=/api/v1/update&authority=download.virtualbox.org&fp=qq&pbk=sadyaFeM276vgv_wdE1g6DDMgKZfKR_fr9DhTyCp9zM&sid=885781b112c298a5#🇸🇪 Швеция · Stockholm · 50 Мбит/с · Reality · ✅RU
-trojan://weueHhlxEXGl@66.81.247.250:8443?fp=chrome&host=raYAn12-0fy4yUmd-t3.rAYan-12.wOrkers.deV&path=%2F%3Fed%3D2560&pcs=384D816BEE3478297FF2F6F2DA38BA2354744E1C8554DE95140CB00089F3F35D&security=tls&sni=raYAn12-0fy4yUmd-t3.rAYan-12.wOrkers.deV&type=ws#🌐 ? · 33 Мбит/с · TROJAN · ✅RU
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aHhTVURzdmlQRXdINVpoZXdoV3pUdzJweDBaTGk2NzlmajlDVGd6QWxsVT06aStqOUFJQkxxQ21hc0lVaCtaTkhFVk5wdFYwTHdLUEIyQitzdDBNazR3MD0=@5.223.59.197:21451#🇸🇬 Сингапур · Сингапур · 15 Мбит/с · SS · ✅RU
-vless://391a32c6-084c-4d61-8e8d-472678021dac@fi.extremumnews.com:6443?authority=developer.download.nvidia.com&encryption=none&fp=qq&pbk=UKB-fipx7qxzTbJBH-GHRsHghJQJVvRIny9HspgBllc&security=reality&serviceName=/api/v1/update&sid=257e75097e30fdbd&sni=developer.download.nvidia.com&type=grpc#🇫🇮 Финляндия · Хельсинки · 2 Мбит/с · Reality · ✅RU
-hysteria2://WA0SnWHPvYWDTaPjIMZgB6WFSJUPj5FH@31.56.189.204:443?sni=abr.ntsrc.xyz&fp=firefox&alpn=h2%2Ch3#🇩🇪 Германия · Франкфурт · 1 Мбит/с · QUIC · ✅RU
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@153.56.229.67:25035?type=xhttp&security=reality&fp=firefox&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&sid=eb63581de991f8c8&sni=96f799r.ch5.h1clayd.click&path=%2Fastral-edge-h1&mode=stream-one&encryption=none#🇨🇭 Швейцария · Zurich · 1 Мбит/с · Reality · ✅RU
-vless://391a32c6-084c-4d61-8e8d-472678021dac@fr.extremumnews.com:6443?type=grpc&security=reality&sni=download.virtualbox.org&serviceName=/api/v1/update&authority=download.virtualbox.org&fp=firefox&pbk=j0S1c1otF2nPttqWdl1jvO3Lpo46deTj5UYBeZoUB0w&sid=1265c88595b5c91a#🇫🇷 Франция · Paris · 0 Мбит/с · Reality · ✅RU
-vless://bfc876fe-ecbc-4c13-a969-4b757e9e76fb@us2-2.998998.best:443?&security=tls&sni=server6.9966338.xyz&type=ws&headerType=none&host=server6.9966338.xyz&path=%2Ffiughoieuhti834t90%3Fed%3D2560#🇺🇸 США · Las Vegas · 0 Мбит/с · TLS · ✅RU
-vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=android#🌐 ? · 29 Мбит/с · TLS
-vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCA3REEzRDgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#🌐 ? · 23 Мбит/с · VMESS
-vless://37af0181-5598-4aad-a040-d926bcb65757@plaindune.com:8443?type=xhttp&security=tls&path=/api/v1/upload&sni=plaindune.com&fp=firefox#🇧🇬 Болгария · Sofia · 5 Мбит/с · TLS
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@52.195.161.63:34745?security=tls&sni=nu3rb.supertoolify.com#🇯🇵 Япония · Tokyo · 0 Мбит/с · TROJAN
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.154.18:40055?insecure=1&obfs=salamander&obfs-password=6fltjteoyab7fjf1&sni=psstatic.cdn.bcebos.com#🇺🇸 США · San Jose · 20 Мбит/с · QUIC · ✅RU
+hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#🌐 ? · 18 Мбит/с · QUIC · ✅RU
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nu3rb.supertoolify.com:443?sni=nu3rb.supertoolify.com&allowInsecure=1&type=tcp&fp=chrome#🇯🇵 Япония · Tokyo · 16 Мбит/с · TROJAN · ✅RU
+hysteria2://z%2FyIxn3sBV03PkAxbnX8rg%3D%3D@137.131.177.121:20000?sni=hy2-br.whuiy.xyz&obfs=salamander&obfs-password=z%2FyIxn3sBV03PkAxbnX8rg%3D%3D&mport=20000-30000#🇧🇷 Бразилия · Сан-Паулу · 11 Мбит/с · QUIC · ✅RU
+hysteria2://55e8b22d-a106-41eb-8a5b-9773bedce8ef@outh.yandex-cloud.org:54183/?sni=outh.yandex-cloud.org#🇩🇪 Германия · Франкфурт · 2 Мбит/с · QUIC · ✅RU
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a1dgus.supertoolify.com:40205?insecure=1&obfs=salamander&obfs-password=kydqninqtcdomlcb&sni=psstatic.cdn.bcebos.com#🇺🇸 США · Лос-Анджелес · 1 Мбит/с · QUIC · ✅RU
+vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCA3REEzRDgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#🌐 ? · 20 Мбит/с · VMESS
+vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgM0JCMEZDIiwiYWRkIjoiMTA0LjIxLjUwLjE3NyIsInBvcnQiOiIyMDgzIiwiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Im9yMy5zZmFjZy51ayIsInBhdGgiOiIvb3IzIiwiaG9zdCI6Im9yMy5zZmFjZy51ayJ9#🌐 ? · 0 Мбит/с · VMESS
