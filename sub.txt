@@ -1,14 +1,11 @@
-#profile-title: ⚡ VPN · 24.11 · до 22 Мбит/с
+#profile-title: ⚡ VPN · 24.11 · до 21 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 24.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#🇺🇸 США · North Bergen · 22 Мбит/с · QUIC · ✅RU
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nu3rb.supertoolify.com:443?security=tls&sni=nu3rb.supertoolify.com&type=tcp#🇯🇵 Япония · Tokyo · 17 Мбит/с · TROJAN · ✅RU
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252F%25252Fworryfree&host=sg-vless-ws.bypass.id#🇸🇬 Сингапур · Сингапур · 16 Мбит/с · TLS · ✅RU
-hysteria2://7cbd9bf9-a3b1-4257-8406-df6109cd882f@ee.chick-chirik.com:443?sni=nl.chick-chirik.com#🇸🇪 Швеция · Stockholm · 10 Мбит/с · QUIC · ✅RU
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?&type=ws&headerType=none&host=suh.cryptofront.uk&path=%2F#🇫🇷 Франция · Лотербур · 0 Мбит/с · TLS · ✅RU
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?security=tls&amp;alpn=h3&amp;insecure=0&amp;sni=mother-earth.fyi#🇬🇧 Великобритания · London · 21 Мбит/с · QUIC · ✅RU
+vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6IjgwIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBDNDAyMzUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#🌐 ? · 7 Мбит/с · VMESS · ✅RU
+hysteria2://4dea9141-914b-4a25-86b4-c5f98616cb8d@193.233.130.66:443?sni=app.vles.space#🇳🇱 Нидерланды · Амстердам · 6 Мбит/с · QUIC · ✅RU
 trojan://123456@34.80.15.95:443?sni=tw.ctt25.uk&type=tcp&fp=chrome#🇹🇼 Тайвань · Taipei · 0 Мбит/с · TROJAN · ✅RU
-vmess://eyJhZGQiOiIxNzIuNjcuMTkwLjE2NCIsImFpZCI6MCwiaG9zdCI6Imd1YW53YW5nLmF3c25vLmNvbSIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgNUQ5MEYxIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidiI6IjIifQ==#🌐 ? · 16 Мбит/с · VMESS
-vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCA3REEzRDgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#🌐 ? · 16 Мбит/с · VMESS
-vmess://eyJhZGQiOiIxNzIuNjQuMTQ1LjkzIiwiYWlkIjowLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCA0MDgxMDYiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJndWFud2FuZy5hd3Nuby5jb20iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9#🌐 ? · 14 Мбит/с · VMESS
+vmess://eyJhZGQiOiIxNzIuNjcuMTkwLjE2NCIsImFpZCI6MCwiaG9zdCI6Imd1YW53YW5nLmF3c25vLmNvbSIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgNUQ5MEYxIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidiI6IjIifQ==#🌐 ? · 15 Мбит/с · VMESS
+vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCA3REEzRDgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#🌐 ? · 11 Мбит/с · VMESS
