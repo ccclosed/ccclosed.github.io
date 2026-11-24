@@ -1,20 +1,14 @@
-#profile-title: ⚡ VPN · 24.11 · до 71 Мбит/с
+#profile-title: ⚡ VPN · 24.11 · до 21 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 24.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d498006b6113&security=tls&sni=4kzs98enuqus.gametyrhewr06.workers.dev&type=ws#🌐 ? · 42 Мбит/с · TLS · ✅RU
-vless://e15225fb-0998-4719-8391-eede56f4d472@146.75.32.177:443?security=tls&type=xhttp&host=huryuk.global.ssl.fastly.net&sni=zd.fastly.com&fp=firefox&mode=packet-up#🇩🇪 Германия · Фалькенштайн · 27 Мбит/с · TLS · ✅RU
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@usbg1hkzf.hikigo.com:443?security=tls&sni=usbg1hkzf.hikigo.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇺🇸 США · Emigration Canyon Township · 15 Мбит/с · TROJAN · ✅RU
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@hkzfsg1.mateflora.com:443?allowInsecure=1&amp;sni=hkzfsg1.mateflora.com#🇸🇬 Сингапур · Сингапур · 15 Мбит/с · TROJAN · ✅RU
-vless://50414e45-4c5f-5a45-5553-d617da6e0a54@194.156.26.20:443?encryption=none&fp=firefox&path=/stream/PANEL_ZEUS/d617da6e0a54&security=tls&sni=qzzw7gegux3s.ersg587gatdd.workers.dev&type=ws#🌐 ? · 13 Мбит/с · TLS · ✅RU
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#🇸🇪 Швеция · Stockholm · 11 Мбит/с · TLS · ✅RU
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@payablemeta.cleanfoodshop.org:443?type=ws&headerType=none&security=tls&encryption=none&sni=payablemeta.cleanfoodshop.org&fp=firefox&path=%2Fmedia%2Fws%2F#🇸🇪 Швеция · Stockholm · 11 Мбит/с · TLS · ✅RU
-hysteria2://WA0SnWHPvYWDTaPjIMZgB6WFSJUPj5FH@31.56.189.204:443?sni=abr.ntsrc.xyz&fp=firefox#🇩🇪 Германия · Франкфурт · 3 Мбит/с · QUIC · ✅RU
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?host=suh.cryptofront.uk&path=%2F&type=ws#🇫🇷 Франция · Лотербур · 2 Мбит/с · TLS · ✅RU
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?sni=171.22.183.166&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇱 Нидерланды · Амстердам · 1 Мбит/с · TLS · ✅RU
-vless://ef423950-b6e2-4ab5-8242-591a7b7c4d68@185.86.147.33:443?security=tls&sni=grc.rtkdvbr.cc&type=ws&path=%2Fb241ws&encryption=none#🇳🇱 Нидерланды · Амстердам · 0 Мбит/с · TLS · ✅RU
-vless://0501782a-e673-4af6-b033-2506c6baab59@144.31.164.204:443?security=tls&sni=lvi-sub.xyz&alpn=http%2F1.1&fp=firefox&type=ws&host=lvi-sub.xyz&path=%2Fvpn-relay%3Ftoken%3D0c9dbd4ebc607b03d5f086d4fef30680%26pool%3Dde#🇩🇪 Германия · Франкфурт · 0 Мбит/с · TLS · ✅RU
-vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=android#🌐 ? · 71 Мбит/с · TLS
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252F%25252Fworryfree&host=sg-vless-ws.bypass.id#🇸🇬 Сингапур · Сингапур · 12 Мбит/с · TLS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.45.108:8443#🇸🇬 Сингапур · Сингапур · 0 Мбит/с · SS
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@zzfxgcp.mateflora.com:30178?allowInsecure=1&sni=usbg1hkzf.hikigo.com#🇺🇸 США · Emigration Canyon Township · 14 Мбит/с · TROJAN · ✅RU
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@usbg1hkzf.hikigo.com:443?sni=usbg1hkzf.hikigo.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸 США · Emigration Canyon Township · 14 Мбит/с · TROJAN · ✅RU
+vmess://eyJhZGQiOiIxMDQuMTguMzIuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImNzIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0IjoiODQ0MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQTcyQjA5Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🇺🇸 США · St Louis · 0 Мбит/с · VMESS · ✅RU
+trojan://123456@34.80.15.95:443?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#🇹🇼 Тайвань · Taipei · 0 Мбит/с · TROJAN · ✅RU
+vmess://eyJhZGQiOiIxMDQuMTguNDIuMTYzIiwiYWlkIjowLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBFMjA5MDMiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJndWFud2FuZy5hd3Nuby5jb20iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9#🌐 ? · 21 Мбит/с · VMESS
+vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCA3REEzRDgiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#🌐 ? · 20 Мбит/с · VMESS
+vmess://eyJhZGQiOiIxNzIuNjQuMTQ1LjkzIiwiYWlkIjowLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCA0MDgxMDYiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJndWFud2FuZy5hd3Nuby5jb20iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9#🌐 ? · 19 Мбит/с · VMESS
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@hkzfsg1.mateflora.com:443?allowInsecure=1&sni=hkzfsg1.mateflora.com#🇸🇬 Сингапур · Сингапур · 3 Мбит/с · TROJAN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVc0ZtYXhFSFZ3VWEwMjVqbW13TEc3ZHUtekxWcVpLMA@64.49.15.224:32845#🇹🇷 Турция · Стамбул · 0 Мбит/с · SS
