@@ -1,13 +1,8 @@
-#profile-title: ⚡ VPN · 25.11 · до 59 Мбит/с
+#profile-title: ⚡ VPN · 25.11 · до 0 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 25.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@welcometorussia.belka.tv:443/?sni=welcometorussia.belka.tv#🇷🇺 Россия · St Petersburg · 59 Мбит/с · QUIC · ✅RU
-vless://f2f64531-6baf-476a-9d7c-a47b30a02b8a@178.177.17.207:8446?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0#🇹🇷 Турция · Стамбул · 4 Мбит/с · TLS · ✅RU
-hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#🇺🇸 США · San Jose · 1 Мбит/с · QUIC · ✅RU
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#🇹🇼 Тайвань · Taipei · 0 Мбит/с · TROJAN · ✅RU
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nu3rb.supertoolify.com:443?allowInsecure=0&sni=nu3rb.supertoolify.com#🌐 ? · 13 Мбит/с · TROJAN
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#🌐 ? · 0 Мбит/с · TROJAN
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org#🌐 ? · 0 Мбит/с · TROJAN
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kr.freeguard.org#🌐 ? · 0 Мбит/с · TROJAN
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?type=raw&headerType=none&security=tls&sni=45.32.28.232#🌐 ? · 0 Мбит/с · TROJAN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ==@tr.subscriptionservice.ir:2089#🇹🇷 Турция · Стамбул · 0 Мбит/с · SS
