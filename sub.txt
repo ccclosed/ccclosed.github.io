@@ -3,6 +3,7 @@
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 25.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kr.freeguard.org#🌐 ? · 0 Мбит/с · TROJAN
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?type=raw&headerType=none&security=tls&sni=45.32.28.232#🌐 ? · 0 Мбит/с · TROJAN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ==@tr.subscriptionservice.ir:2089#🇹🇷 Турция · Стамбул · 0 Мбит/с · SS
+vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@9030b9g.pl10.h1clayd.shop:443?type=grpc&security=reality&serviceName=8b45c3fd2e05&sni=9030b9g.pl10.h1clayd.shop&fp=firefox&pbk=oE6MuoxfZqB5fkSnx_XWL28kNoBGODAQk58pRNS3qXY&sid=d28c89350a91e479&spx=%2F&encryption=none#🌐 ? · 0 Мбит/с · Reality
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?encryption=none&fp=firefox&path=/ws&security=tls&sni=fonts.plumstatic.com&type=ws#🌐 ? · 0 Мбит/с · TLS
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.16.183.101:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid&host=sync.2ml.bid#🌐 ? · 0 Мбит/с · TLS
+vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@136.234.20.140:443?security=reality&sni=8ba6c3t.nl2.h1clayd.click&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa&encryption=none&type=tcp#🇮🇱 IL · Tel Aviv · 0 Мбит/с · Reality
