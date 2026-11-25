@@ -1,18 +1,13 @@
-#profile-title: ⚡ VPN · 25.11 · до 57 Мбит/с
+#profile-title: ⚡ VPN · 25.11 · до 59 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 25.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@104.21.227.134:80?encryption=none&type=ws&host=elenaaaaaaaaaa.cloudns.pro&path=/V2ray_confiig&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇭🇰 Гонконг · Гонконг · 15 Мбит/с · TLS · ✅RU
-vless://93ad7771-2a98-4933-8001-3b0c20fa88dd@cdn-nl.vpnserverhub.com:8080?encryption=none&type=ws&path=%2Fvpn-secure-cdn&security=none#🇳🇱 Нидерланды · Амстердам · 14 Мбит/с · TLS · ✅RU
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0EgfCAxMDQuMTYuMjMxLjEzMiIsImFkZCI6InJlcGxpY2EtcG9ldHJ5LWNhbmRpZGF0ZXMtc2l0dWF0ZWQudHJ5Y2xvdWRmbGFyZS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIyYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVwbGljYS1wb2V0cnktY2FuZGlkYXRlcy1zaXR1YXRlZC50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwidGxzIjoidGxzIiwic25pIjoicmVwbGljYS1wb2V0cnktY2FuZGlkYXRlcy1zaXR1YXRlZC50cnljbG91ZGZsYXJlLmNvbSJ9#🇭🇰 Гонконг · Гонконг · 14 Мбит/с · VMESS · ✅RU
-vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@195.110.15.216:31652?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Германия · Bad Soden am Taunus · 13 Мбит/с · TLS · ✅RU
-hy2://b42d90fa667942aebc734d60@159.13.55.48:20000?sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#🇦🇺 Австралия · Сидней · 7 Мбит/с · QUIC · ✅RU
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055?insecure=1&alpn=h3&sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=6fltjteoyab7fjf1#🇬🇧 Великобритания · Лондон · 1 Мбит/с · QUIC · ✅RU
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nu3rb.supertoolify.com:443?allowInsecure=0&sni=nu3rb.supertoolify.com#🇯🇵 Япония · Tokyo · 1 Мбит/с · TROJAN · ✅RU
-hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@ru2.streamclubz.com:443?sni=ru2.streamclubz.com#🌐 ? · 57 Мбит/с · QUIC
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.29.160.71:18443#🌐 ? · 29 Мбит/с · SS
+hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@welcometorussia.belka.tv:443/?sni=welcometorussia.belka.tv#🇷🇺 Россия · St Petersburg · 59 Мбит/с · QUIC · ✅RU
+vless://f2f64531-6baf-476a-9d7c-a47b30a02b8a@178.177.17.207:8446?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0#🇹🇷 Турция · Стамбул · 4 Мбит/с · TLS · ✅RU
+hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#🇺🇸 США · San Jose · 1 Мбит/с · QUIC · ✅RU
+trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#🇹🇼 Тайвань · Taipei · 0 Мбит/с · TROJAN · ✅RU
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nu3rb.supertoolify.com:443?allowInsecure=0&sni=nu3rb.supertoolify.com#🌐 ? · 13 Мбит/с · TROJAN
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#🌐 ? · 0 Мбит/с · TROJAN
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3RlItMjUiLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiJiNDlhZjhjOS0wY2YxLTQyMTItOGVkOC0zNWI3MGQ5ZjJjZjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#🇭🇰 Гонконг · Гонконг · 0 Мбит/с · VMESS
-vmess://eyJhZGQiOiIxMDQuMjUuMC4xIiwiYWlkIjowLCJhbHBuIjoiaHR0cC8xLjEiLCJlY2giOiJjbG91ZGZsYXJlLWVjaC5jb20rdWRwOi8vMS4xLjEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCA0MEZFMDAiLCJzbmkiOiJvcjMuc2ZhY2cudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇯🇵 Япония · Tokyo · 0 Мбит/с · VMESS
-vmess://eyJhZGQiOiIxMDQuMTYuMC4xIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImVjaCI6ImNsb3VkZmxhcmUtZWNoLmNvbSt1ZHA6Ly8xLjEuMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoib3IzLnNmYWNnLnVrIiwiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb3IzIiwicG9ydCI6IjIwODMiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDNCNUZBRiIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJvcjMuc2ZhY2cudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇯🇵 Япония · Tokyo · 0 Мбит/с · VMESS
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org#🌐 ? · 0 Мбит/с · TROJAN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ==@tr.subscriptionservice.ir:2089#🇹🇷 Турция · Стамбул · 0 Мбит/с · SS
