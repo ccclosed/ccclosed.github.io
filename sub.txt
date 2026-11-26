@@ -1,19 +1,19 @@
-#profile-title: ⚡ VPN · 26.11 · до 23 Мбит/с
+#profile-title: ⚡ VPN · 26.11 · до 35 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 26.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252F%25252Fworryfree&host=sg-vless-ws.bypass.id#🇸🇬 Сингапур · Сингапур · 23 Мбит/с · TLS · ✅RU
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0EgfCAyNjA2OjQ3MDA6OjY4MTA6ZTY4NCIsImFkZCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii8yYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJiYXNlZC13aWtpLWxvY2F0ZWQtaW5kaXZpZHVhbC50cnljbG91ZGZsYXJlLmNvbSJ9#🇭🇰 Гонконг · Гонконг · 19 Мбит/с · VMESS · ✅RU
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC · ✅RU
-hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?insecure=1&pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88&sni=03e488t.es9.h1clayd.click#🇪🇸 Испания · Madrid · 1 Мбит/с · QUIC · ✅RU
-hysteria2://Cqx5aT9Zux@185.200.199.179:54706/?sni=185.200.199.179#🇳🇱 Нидерланды · Dronten · 1 Мбит/с · QUIC · ✅RU
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#🇫🇷 Франция · Лотербур · 0 Мбит/с · TLS · ✅RU
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.40.77:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS · ✅RU
-ss://YWVzLTI1Ni1nY206MmJzWks3bEgzRUJNWlhkbw==@103.115.17.65:8388#🌐 ? · 10 Мбит/с · SS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.0:5555#🇯🇵 Япония · Tokyo · 5 Мбит/с · SS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.17.52:5555#🌐 ? · 0 Мбит/с · SS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.42:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.151:5555#🌐 ? · 0 Мбит/с · SS
-vless://33ad0b97-01c5-48b0-8530-440b90e756aa@www.hcaptcha.com:80?security=none&type=ws&path=%2FZSwEHuFy9lC7zgDp&host=worker3.faniw6556.workers.dev#🇸🇪 Швеция · Стенинг · 0 Мбит/с · TLS
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:2095?security=tls&alpn=h2&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ru-1.krugvpn.me&fp=android#🇬🇧 Великобритания · London · 0 Мбит/с · TROJAN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0EgfCAyNjA2OjQ3MDA6OjY4MTA6ZTY4NCIsImFkZCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii8yYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJiYXNlZC13aWtpLWxvY2F0ZWQtaW5kaXZpZHVhbC50cnljbG91ZGZsYXJlLmNvbSJ9#🇭🇰 Гонконг · Гонконг · 18 Мбит/с · VMESS · ✅RU
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?security=reality&type=grpc&mode=gun&serviceName=5b79e8a94241&packetEncoding=xudp&sni=15b171g.nl7.h1clayd.click&fp=chrome&sid=50a749f0eccb628c&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&encryption=none#🇳🇱 Нидерланды · Амстердам · 7 Мбит/с · Reality · ✅RU
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@e60833x.nl7.h1clayd.click:443?security=reality&type=xhttp&path=/d20896a4ce30&packetEncoding=xudp&sni=e60833x.nl7.h1clayd.click&fp=chrome&sid=2d2598d60447a967&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&mode=auto&encryption=none#🇳🇱 Нидерланды · Амстердам · 2 Мбит/с · Reality · ✅RU
+vless://33ad0b97-01c5-48b0-8530-440b90e756aa@www.hcaptcha.com:80?security=none&type=ws&path=%2FZSwEHuFy9lC7zgDp&host=worker3.faniw6556.workers.dev#🇸🇪 Швеция · Стенинг · 0 Мбит/с · TLS · ✅RU
+vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?security=tls&fp=firefox&sni=jp.reddotcorp.org#🇯🇵 Япония · Tokyo · 0 Мбит/с · TLS · ✅RU
+vless://00000000-0000-0001-0000-000000000000@213.171.25.82:443?security=tls&fp=firefox&sni=ocxjrdsfwziqcqmhkg.fcloudservices.site#🌐 ? · 35 Мбит/с · TLS
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@91.206.92.158:18443#🌐 ? · 22 Мбит/с · SS
+vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDdDOTdBMSIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇺🇸 США · Чикаго · 14 Мбит/с · VMESS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.151:5555#🇯🇵 Япония · Tokyo · 10 Мбит/с · SS
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=47.129.241.99#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.245.42.226:5555#🌐 ? · 1 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.154.126:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#🇫🇷 Франция · Лотербур · 0 Мбит/с · TLS
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.85.91:8443?type=xhttp&security=reality&fp=chrome&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&path=/xhttp&mode=auto#🇺🇸 США · Чикаго · 0 Мбит/с · Reality
