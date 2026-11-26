@@ -1,15 +1,19 @@
-#profile-title: ⚡ VPN · 26.11 · до 21 Мбит/с
+#profile-title: ⚡ VPN · 26.11 · до 23 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 26.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=47.129.241.99#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC · ✅RU
-vless://8344360f-0349-4784-a19f-33fd92e89389@104.16.183.101:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid&host=sync.2ml.bid#🇯🇵 Япония · Tokyo · 21 Мбит/с · TLS
-vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 18 Мбит/с · TLS
-vless://201d6c87-5de6-4bda-973c-024129b228fb@freev2.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=it-mil.862400.xyz&fp=random&type=ws&host=it-mil.862400.xyz&path=%2Fannouncement%3Fed%3D2048#🇮🇹 Италия · Милан · 15 Мбит/с · TLS
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.67.192.112:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония · Tokyo · 13 Мбит/с · TLS
-vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=android#🌐 ? · 11 Мбит/с · TLS
-trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#🌐 ? · 0 Мбит/с · TROJAN
-trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐 ? · 0 Мбит/с · TROJAN
-vless://5c35d449-43e7-4a66-b520-63d2fc891bcd@54.190.224.192:8443?encryption=none&fp=firefox&host=next-8zs.pages.dev&path=/5c35d449-43e7-4a66-b520-63d2fc891bcd?ed=2048&security=tls&sni=next-8zs.pages.dev&type=ws#🇺🇸 США · Portland · 0 Мбит/с · TLS
-hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?insecure=1&sni=bing.com#🇯🇵 Япония · Osaka · 1 Мбит/с · QUIC
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252F%25252Fworryfree&host=sg-vless-ws.bypass.id#🇸🇬 Сингапур · Сингапур · 23 Мбит/с · TLS · ✅RU
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0EgfCAyNjA2OjQ3MDA6OjY4MTA6ZTY4NCIsImFkZCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii8yYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJiYXNlZC13aWtpLWxvY2F0ZWQtaW5kaXZpZHVhbC50cnljbG91ZGZsYXJlLmNvbSJ9#🇭🇰 Гонконг · Гонконг · 19 Мбит/с · VMESS · ✅RU
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC · ✅RU
+hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?insecure=1&pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88&sni=03e488t.es9.h1clayd.click#🇪🇸 Испания · Madrid · 1 Мбит/с · QUIC · ✅RU
+hysteria2://Cqx5aT9Zux@185.200.199.179:54706/?sni=185.200.199.179#🇳🇱 Нидерланды · Dronten · 1 Мбит/с · QUIC · ✅RU
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#🇫🇷 Франция · Лотербур · 0 Мбит/с · TLS · ✅RU
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.40.77:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS · ✅RU
+ss://YWVzLTI1Ni1nY206MmJzWks3bEgzRUJNWlhkbw==@103.115.17.65:8388#🌐 ? · 10 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.0:5555#🇯🇵 Япония · Tokyo · 5 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.17.52:5555#🌐 ? · 0 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.42:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.151:5555#🌐 ? · 0 Мбит/с · SS
+vless://33ad0b97-01c5-48b0-8530-440b90e756aa@www.hcaptcha.com:80?security=none&type=ws&path=%2FZSwEHuFy9lC7zgDp&host=worker3.faniw6556.workers.dev#🇸🇪 Швеция · Стенинг · 0 Мбит/с · TLS
+trojan://cWM5aWtWR9@ru-1.krugvpn.me:2095?security=tls&alpn=h2&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ru-1.krugvpn.me&fp=android#🇬🇧 Великобритания · London · 0 Мбит/с · TROJAN
