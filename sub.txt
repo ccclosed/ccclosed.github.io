@@ -1,10 +1,15 @@
-#profile-title: ⚡ VPN · 26.11 · до 8 Мбит/с
+#profile-title: ⚡ VPN · 26.11 · до 21 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 26.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-hysteria2://Cqx5aT9Zux@185.200.199.179:54706?sni=185.200.199.179#🇳🇱 Нидерланды · Dronten · 1 Мбит/с · QUIC · ✅RU
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#🇸🇬 Сингапур · Сингапур · 8 Мбит/с · QUIC
-vless://109fe686-024c-48cf-8f74-6a8e938a0464@91.107.251.238:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=24c-48cf-8-de-d.vitaminp.ir&encryption=none&type=tcp#🌐 ? · 0 Мбит/с · TLS
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=47.129.241.99#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC · ✅RU
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.16.183.101:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid&host=sync.2ml.bid#🇯🇵 Япония · Tokyo · 21 Мбит/с · TLS
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 18 Мбит/с · TLS
+vless://201d6c87-5de6-4bda-973c-024129b228fb@freev2.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=it-mil.862400.xyz&fp=random&type=ws&host=it-mil.862400.xyz&path=%2Fannouncement%3Fed%3D2048#🇮🇹 Италия · Милан · 15 Мбит/с · TLS
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.67.192.112:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#🇯🇵 Япония · Tokyo · 13 Мбит/с · TLS
+vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=android#🌐 ? · 11 Мбит/с · TLS
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#🌐 ? · 0 Мбит/с · TROJAN
 trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐 ? · 0 Мбит/с · TROJAN
+vless://5c35d449-43e7-4a66-b520-63d2fc891bcd@54.190.224.192:8443?encryption=none&fp=firefox&host=next-8zs.pages.dev&path=/5c35d449-43e7-4a66-b520-63d2fc891bcd?ed=2048&security=tls&sni=next-8zs.pages.dev&type=ws#🇺🇸 США · Portland · 0 Мбит/с · TLS
+hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?insecure=1&sni=bing.com#🇯🇵 Япония · Osaka · 1 Мбит/с · QUIC
