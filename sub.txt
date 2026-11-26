@@ -1,19 +1,15 @@
-#profile-title: ⚡ VPN · 26.11 · до 35 Мбит/с
+#profile-title: ⚡ VPN · 26.11 · до 25 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 26.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0EgfCAyNjA2OjQ3MDA6OjY4MTA6ZTY4NCIsImFkZCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJhc2VkLXdpa2ktbG9jYXRlZC1pbmRpdmlkdWFsLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii8yYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJiYXNlZC13aWtpLWxvY2F0ZWQtaW5kaXZpZHVhbC50cnljbG91ZGZsYXJlLmNvbSJ9#🇭🇰 Гонконг · Гонконг · 18 Мбит/с · VMESS · ✅RU
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?security=reality&type=grpc&mode=gun&serviceName=5b79e8a94241&packetEncoding=xudp&sni=15b171g.nl7.h1clayd.click&fp=chrome&sid=50a749f0eccb628c&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&encryption=none#🇳🇱 Нидерланды · Амстердам · 7 Мбит/с · Reality · ✅RU
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@e60833x.nl7.h1clayd.click:443?security=reality&type=xhttp&path=/d20896a4ce30&packetEncoding=xudp&sni=e60833x.nl7.h1clayd.click&fp=chrome&sid=2d2598d60447a967&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&mode=auto&encryption=none#🇳🇱 Нидерланды · Амстердам · 2 Мбит/с · Reality · ✅RU
-vless://33ad0b97-01c5-48b0-8530-440b90e756aa@www.hcaptcha.com:80?security=none&type=ws&path=%2FZSwEHuFy9lC7zgDp&host=worker3.faniw6556.workers.dev#🇸🇪 Швеция · Стенинг · 0 Мбит/с · TLS · ✅RU
-vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?security=tls&fp=firefox&sni=jp.reddotcorp.org#🇯🇵 Япония · Tokyo · 0 Мбит/с · TLS · ✅RU
-vless://00000000-0000-0001-0000-000000000000@213.171.25.82:443?security=tls&fp=firefox&sni=ocxjrdsfwziqcqmhkg.fcloudservices.site#🌐 ? · 35 Мбит/с · TLS
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@91.206.92.158:18443#🌐 ? · 22 Мбит/с · SS
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDdDOTdBMSIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇺🇸 США · Чикаго · 14 Мбит/с · VMESS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.151:5555#🇯🇵 Япония · Tokyo · 10 Мбит/с · SS
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=47.129.241.99#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.245.42.226:5555#🌐 ? · 1 Мбит/с · SS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.154.126:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#🇫🇷 Франция · Лотербур · 0 Мбит/с · TLS
-vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.85.91:8443?type=xhttp&security=reality&fp=chrome&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&path=/xhttp&mode=auto#🇺🇸 США · Чикаго · 0 Мбит/с · Reality
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@150.230.229.100:20000?insecure=0&sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#🇧🇷 Бразилия · Сан-Паулу · 7 Мбит/с · QUIC · ✅RU
+vmess://eyJhZGQiOiIxMDQuMjEuMC4xIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEY3RUFFRCIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🌐 ? · 1 Мбит/с · VMESS · ✅RU
+vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDA4NiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgQjUzOTBFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇸🇬 Сингапур · Сингапур · 25 Мбит/с · VMESS
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=47.129.241.99#🇸🇬 Сингапур · Сингапур · 8 Мбит/с · QUIC
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.10.204:5555#🌐 ? · 0 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.27.11:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.41.139:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.245.42.226:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.130.59:5555#🌐 ? · 0 Мбит/с · SS
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3RlItMjciLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiJiNDlhZjhjOS0wY2YxLTQyMTItOGVkOC0zNWI3MGQ5ZjJjZjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#🇭🇰 Гонконг · Гонконг · 0 Мбит/с · VMESS
