@@ -1,13 +1,22 @@
-#profile-title: ⚡ VPN · 27.11 · до 17 Мбит/с
+#profile-title: ⚡ VPN · 27.11 · до 58 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 27.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-trojan://c48qMRRfLJ3kwD4P_XpgfIq6@3x-sub.linzhonghong.com:443?sni=3x-sub.linzhonghong.com&allowInsecure=1&type=ws&path=%2Ftjbbb7eab89c9a#🇺🇸 США · Dallas · 17 Мбит/с · TROJAN
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#🇸🇬 Сингапур · Сингапур · 9 Мбит/с · QUIC
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🌐 ? · 9 Мбит/с · QUIC
-vmess://eyJhZGQiOiIxMDQuMjEuMC4xIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEY3RUFFRCIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇺🇸 США · Чикаго · 0 Мбит/с · VMESS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.41.139:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.27.11:5555#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS
-vless://33ad0b97-01c5-48b0-8530-440b90e756aa@www.hcaptcha.com:80?security=none&type=ws&path=%2FZSwEHuFy9lC7zgDp&host=worker3.faniw6556.workers.dev#🌐 ? · 0 Мбит/с · TLS
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3RlItMjciLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiJiNDlhZjhjOS0wY2YxLTQyMTItOGVkOC0zNWI3MGQ5ZjJjZjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#🇭🇰 Гонконг · Гонконг · 0 Мбит/с · VMESS
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@37.18.14.25:18442?flow=xtls-rprx-vision&security=reality&sni=sbmicro731.alexdjane.am&fp=firefox&pbk=qcQLgmXcaZnmi6G19qfREf1_vj-f05z8CVW0q8-4vyQ&sid=fdf358c631f381c3&encryption=none&type=tcp#🇳🇱 Нидерланды · Амстердам · 58 Мбит/с · Reality · ✅RU
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@150.230.229.100:20000?insecure=0&sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#🇧🇷 Бразилия · Сан-Паулу · 9 Мбит/с · QUIC · ✅RU
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252F%25252Fworryfree&host=sg-vless-ws.bypass.id#🇸🇬 Сингапур · Сингапур · 8 Мбит/с · TLS · ✅RU
+hysteria2://162be7b9-eb38-4f74-b836-96afc49ae452@194.93.61.148:443?sni=nether.cxhub.su#🇳🇱 Нидерланды · Eygelshoven · 1 Мбит/с · QUIC · ✅RU
+hy2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#🇺🇸 США · San Jose · 1 Мбит/с · QUIC · ✅RU
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@172.64.229.174:443?security=tls&encryption=none&fp=firefox&type=ws&sni=us-lax.862400.xyz&host=us-lax.862400.xyz&path=%2Fannouncement%3Fed%3D2048#🇺🇸 США · Лос-Анджелес · 0 Мбит/с · TLS · ✅RU
+vless://00000000-0000-0001-0000-000000000000@213.171.25.82:443?security=tls&fp=firefox&sni=ocxjrdsfwziqcqmhkg.fcloudservices.site#🌐 ? · 53 Мбит/с · TLS
+vless://00000000-0000-0001-0000-000000000000@176.114.83.142:443?type=tcp&security=tls&fp=firefox&sni=ybihyeyqnhgremzvnh.fcloudservices.site#🌐 ? · 41 Мбит/с · TLS
+vless://00000000-0000-0001-0000-000000000000@176.114.83.141:443?security=tls&fp=firefox&sni=eqyasgqsnwsxtksuon.fcloudservices.site#🌐 ? · 24 Мбит/с · TLS
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 6 Мбит/с · TLS
+vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.tele2.se&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&sid=497b9fa9b6050f45&fp=firefox#🇸🇪 Швеция · Stockholm · 5 Мбит/с · Reality
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 5 Мбит/с · TLS
+hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?insecure=1&sni=bing.com#🇯🇵 Япония · Osaka · 2 Мбит/с · QUIC
+vmess://eyJhZGQiOiI0NS4xMzEuMTUzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsImluc2VjdXJlIjoiMCIsIm5hbWUiOiJERSDwn4ep8J+HqiB8IEBSYXlkaWthbHggfCA0RTJBNzYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgNEUyQTc2Iiwic2N5IjoiYXV0byIsInNuaSI6ImRlLnpob3UteXVmYW4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🇩🇪 Германия · Дюссельдорф · 0 Мбит/с · VMESS
+vless://0173d52e-8e1b-4681-831e-11529677b72f@us.alpheratzz.org:443?encryption=none&security=tls&sni=id-0173d52e.vmagnum.win&alpn=h2&fp=safari&type=xhttp&host=&path=%2F&mode=stream-one#🇺🇸 США · Miami · 0 Мбит/с · TLS
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?sni=api-6b04608f.adhil.uk&alpn=h2&flow=xtls-rprx-vision&fp=safari&security=tls#🇫🇮 Финляндия · Хельсинки · 0 Мбит/с · TLS
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@www.visa.com.hk:443?security=tls&type=ws&path=%2Fannouncement%3Fed%3D2048&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&fp=chrome&encryption=none#🇮🇹 Италия · Милан · 0 Мбит/с · TLS
