@@ -1,22 +1,20 @@
-#profile-title: ⚡ VPN · 27.11 · до 58 Мбит/с
+#profile-title: ⚡ VPN · 27.11 · до 53 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 27.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@37.18.14.25:18442?flow=xtls-rprx-vision&security=reality&sni=sbmicro731.alexdjane.am&fp=firefox&pbk=qcQLgmXcaZnmi6G19qfREf1_vj-f05z8CVW0q8-4vyQ&sid=fdf358c631f381c3&encryption=none&type=tcp#🇳🇱 Нидерланды · Амстердам · 58 Мбит/с · Reality · ✅RU
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@150.230.229.100:20000?insecure=0&sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#🇧🇷 Бразилия · Сан-Паулу · 9 Мбит/с · QUIC · ✅RU
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252F%25252Fworryfree&host=sg-vless-ws.bypass.id#🇸🇬 Сингапур · Сингапур · 8 Мбит/с · TLS · ✅RU
-hysteria2://162be7b9-eb38-4f74-b836-96afc49ae452@194.93.61.148:443?sni=nether.cxhub.su#🇳🇱 Нидерланды · Eygelshoven · 1 Мбит/с · QUIC · ✅RU
-hy2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#🇺🇸 США · San Jose · 1 Мбит/с · QUIC · ✅RU
-vless://937bc631-4022-41d2-ae15-d8247ba5e32d@172.64.229.174:443?security=tls&encryption=none&fp=firefox&type=ws&sni=us-lax.862400.xyz&host=us-lax.862400.xyz&path=%2Fannouncement%3Fed%3D2048#🇺🇸 США · Лос-Анджелес · 0 Мбит/с · TLS · ✅RU
-vless://00000000-0000-0001-0000-000000000000@213.171.25.82:443?security=tls&fp=firefox&sni=ocxjrdsfwziqcqmhkg.fcloudservices.site#🌐 ? · 53 Мбит/с · TLS
-vless://00000000-0000-0001-0000-000000000000@176.114.83.142:443?type=tcp&security=tls&fp=firefox&sni=ybihyeyqnhgremzvnh.fcloudservices.site#🌐 ? · 41 Мбит/с · TLS
-vless://00000000-0000-0001-0000-000000000000@176.114.83.141:443?security=tls&fp=firefox&sni=eqyasgqsnwsxtksuon.fcloudservices.site#🌐 ? · 24 Мбит/с · TLS
-vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 6 Мбит/с · TLS
-vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.tele2.se&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&sid=497b9fa9b6050f45&fp=firefox#🇸🇪 Швеция · Stockholm · 5 Мбит/с · Reality
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 5 Мбит/с · TLS
-hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?insecure=1&sni=bing.com#🇯🇵 Япония · Osaka · 2 Мбит/с · QUIC
-vmess://eyJhZGQiOiI0NS4xMzEuMTUzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsImluc2VjdXJlIjoiMCIsIm5hbWUiOiJERSDwn4ep8J+HqiB8IEBSYXlkaWthbHggfCA0RTJBNzYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgNEUyQTc2Iiwic2N5IjoiYXV0byIsInNuaSI6ImRlLnpob3UteXVmYW4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🇩🇪 Германия · Дюссельдорф · 0 Мбит/с · VMESS
-vless://0173d52e-8e1b-4681-831e-11529677b72f@us.alpheratzz.org:443?encryption=none&security=tls&sni=id-0173d52e.vmagnum.win&alpn=h2&fp=safari&type=xhttp&host=&path=%2F&mode=stream-one#🇺🇸 США · Miami · 0 Мбит/с · TLS
-vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?sni=api-6b04608f.adhil.uk&alpn=h2&flow=xtls-rprx-vision&fp=safari&security=tls#🇫🇮 Финляндия · Хельсинки · 0 Мбит/с · TLS
-vless://937bc631-4022-41d2-ae15-d8247ba5e32d@www.visa.com.hk:443?security=tls&type=ws&path=%2Fannouncement%3Fed%3D2048&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&fp=chrome&encryption=none#🇮🇹 Италия · Милан · 0 Мбит/с · TLS
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.16.50.88:443?sni=vpn-us-004.fastervpn.world&amp;path=%2f&amp;allow_insecure=1#🇺🇸 США · Колумбус · 14 Мбит/с · QUIC · ✅RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWk80RDhILWxQazZSVzVzNjhiUXFHbG9LOGlEcGFRbQ==@45.15.166.254:1080#🇩🇪 Германия · Bad Soden am Taunus · 5 Мбит/с · SS · ✅RU
+vless://0173d52e-8e1b-4681-831e-11529677b72f@nl.alpheratzz.org:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v1-6b07048f.vmagnum.win&alpn=h2&fp=firefox&type=tcp#🇳🇱 Нидерланды · Амстердам · 0 Мбит/с · TLS · ✅RU
+vless://c7678d5b-d2b6-40d8-bbf7-dfbfba355f7e@cos-cdn-g.alicdn.win:443?security=tls&sni=mms-statlc-oyu9nl-e.oppocc.men&fp=qq&type=ws&path=%2Fnewlogin%2Flogin.do&host=mms-static-origin-e.oppocc.men#🇺🇸 США · Santa Clara · 0 Мбит/с · TLS · ✅RU
+vless://00000000-0000-0001-0000-000000000000@176.114.83.141:443?security=tls&fp=firefox&sni=eqyasgqsnwsxtksuon.fcloudservices.site#🌐 ? · 53 Мбит/с · TLS
+vless://00000000-0000-0001-0000-000000000000@176.114.83.142:443?type=tcp&security=tls&fp=firefox&sni=ybihyeyqnhgremzvnh.fcloudservices.site#🌐 ? · 40 Мбит/с · TLS
+vless://00000000-0000-0001-0000-000000000000@212.41.28.104:443?type=tcp&security=tls&fp=firefox&sni=akzvjfpucditncujua.fcloudservices.site#🌐 ? · 38 Мбит/с · TLS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSkNIVTFzVjM0TTVUVzRkNExIOFNHbkp0NXhtT2ZZMw==@bash.mrvservice.ir:3230?type=tcp#🇩🇪 Германия · Нюрнберг · 33 Мбит/с · SS
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 16 Мбит/с · TLS
+vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?type=xhttp&security=tls&fp=firefox&sni=plaksa.bootless.ru&path=/api/v2/stream&extra={#🇵🇱 Польша · Варшава · 11 Мбит/с · TLS
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 10 Мбит/с · TLS
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.19.28.32:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#🇯🇵 Япония · Tokyo · 8 Мбит/с · TLS
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@www.visa.com.hk:443?security=tls&type=ws&path=%2Fannouncement%3Fed%3D2048&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&fp=chrome&encryption=none#🇮🇹 Италия · Милан · 2 Мбит/с · TLS
+vless://0173d52e-8e1b-4681-831e-11529677b72f@23.237.202.252:443?security=tls&sni=id-0173d52e.vmagnum.win&alpn=h2&fp=chrome&type=xhttp&path=/&mode=auto&encryption=none#🇺🇸 США · Miami · 1 Мбит/с · TLS
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?sni=api-6b04608f.adhil.uk&alpn=h2&flow=xtls-rprx-vision&fp=safari&security=tls#🇪🇪 Эстония · Таллин · 0 Мбит/с · TLS
