@@ -1,27 +1,25 @@
-#profile-title: ⚡ VPN · 28.11 · до 59 Мбит/с
+#profile-title: ⚡ VPN · 28.11 · до 63 Мбит/с
 #profile-update-interval: 3
 #subscription-autoconnect: 1
 #subscription-autoconnect-type: lowestdelay
 #announce: Отбор 28.11: узлы проверены на реальную скорость и доступ к rutracker.org. Сортировка по скорости. QUIC (Hysteria2) — обход блокировки по SNI.
-vless://6620fbe6-2c8f-4e0a-ae1b-903b7f504862@104.25.36.131:443?security=tls&type=ws&path=%2F80017fc82a762c4a%3Fed%3D2560&host=auto-scale-ad255b-gw.gdjbjfkbfbj.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=auto-scale-ad255b-gw.gdjbjfkbfbj.workers.dev&fp=chrome&encryption=none#🇫🇮 Финляндия · Vantaa · 59 Мбит/с · TLS · ✅RU
-vless://70bd7e36-518b-4ff7-a185-9085d220bdda@dry-snow-82af.xncncnxnnsnz.workers.dev:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=dry-snow-82af.xncncnxnnsnz.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=dry-snow-82af.xncncnxnnsnz.workers.dev&fp=chrome&encryption=none#🇫🇮 Финляндия · Vantaa · 53 Мбит/с · TLS · ✅RU
-vless://b398ddde-edd8-4ba9-a218-eebd136913ad@208.103.161.2:2083?security=tls&encryption=none&fp=firefox&type=ws&sni=ZGqHW1lxrVKVdFe0t.17ys7jQ251.woRKeRs.DEV&path=/#🇵🇱 Польша · Pruszków · 35 Мбит/с · TLS · ✅RU
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@193.233.127.209:443?sni=trendslate.nem-osh-rkp.net#🇳🇱 Нидерланды · Амстердам · 27 Мбит/с · QUIC · ✅RU
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@trendslate.nem-osh-rkp.net:443?security=tls&alpn=h3&insecure=0&sni=trendslate.nem-osh-rkp.net#🇳🇱 Нидерланды · Амстердам · 26 Мбит/с · QUIC · ✅RU
-vless://50414e45-4c5f-5a45-5553-73bbc10a8397@qlzckveeuzhs.2uzgknemu8hs.workers.dev:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F73bbc10a8397&host=qlzckveeuzhs.2uzgknemu8hs.workers.dev&packetEncoding=xudp&sni=qlzckveeuzhs.2uzgknemu8hs.workers.dev&fp=unsafe&encryption=none#🇺🇸 США · Reston · 23 Мбит/с · TLS · ✅RU
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252F%25252Fworryfree&host=sg-vless-ws.bypass.id#🇸🇬 Сингапур · Сингапур · 22 Мбит/с · TLS · ✅RU
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#🇮🇱 IL · Jerusalem · 20 Мбит/с · QUIC · ✅RU
-hysteria2://9263c76e@37.123.193.151:4942?insecure=1&sni=www.bing.com#🇺🇸 США · San Jose · 16 Мбит/с · QUIC · ✅RU
-vless://50414e45-4c5f-5a45-5553-3491f38fc8f6@rezblheru5ds.8cznx9eeukls.workers.dev:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F3491f38fc8f6%2Floc-0&host=rezblheru5ds.8cznx9eeukls.workers.dev&packetEncoding=xudp&sni=rezblheru5ds.8cznx9eeukls.workers.dev&fp=unsafe#🇺🇦 Украина · Kyiv · 12 Мбит/с · TLS · ✅RU
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@solidhealth.nemoi-self.co.uk:443?sni=solidhealth.nemoi-self.co.uk&security=tls#🇵🇱 Польша · Варшава · 4 Мбит/с · QUIC · ✅RU
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.1.76:443?sni=solidhealth.nemoi-self.co.uk#🇵🇱 Польша · Варшава · 4 Мбит/с · QUIC · ✅RU
-vless://00da270a-c35a-4102-afbc-2788ef40003a@185.229.9.174:49094?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Td6o-BHBTNeIugm0r2RjtHgYFkhbRoInB1VxEQtOjyg&sid=c95f&sni=max.ru#🇳🇱 Нидерланды · Амстердам · 0 Мбит/с · Reality · ✅RU
-vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.219.3:8444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kIT3aVeRCeqX48gmfHV8t-VTT8KE_O8g0-nZm_RH4EY&security=reality&sid=ae8011590fe847fa&sni=www.bt.com&type=tcp#🌐 ? · 0 Мбит/с · Reality · ✅RU
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.86.147.45:1443?flow=xtls-rprx-vision&security=reality&sni=sbmicro733.gangtype.com&fp=firefox&pbk=zD0-d1GgeFkk7YTd_l0nio_4WHnbCg5-taaVzwHSomQ&sid=352d79dc4e4bd7df#🌐 ? · 0 Мбит/с · Reality · ✅RU
-vless://50414e45-4c5f-5a45-5553-02f655f579ee@104.24.181.93:8443?path=%2Fstream%2FPANEL_ZEUS%2F02f655f579ee&security=tls&host=swzwi9e2ucjs.ofkqzf-g24wjgkhd31.workers.dev&fp=unsafe&type=ws&sni=swzwi9e2ucjs.ofkqzf-g24wjgkhd31.workers.dev#🇩🇪 Германия · Драйайх · 36 Мбит/с · TLS
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#🇯🇵 Япония · Tokyo · 5 Мбит/с · TLS
-vless://8344360f-0349-4784-a19f-33fd92e89389@104.16.183.101:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid&host=sync.2ml.bid#🇯🇵 Япония · Tokyo · 2 Мбит/с · TLS
-vless://8344360f-0349-4784-a19f-33fd92e89389@104.21.76.96:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#🇯🇵 Япония · Tokyo · 2 Мбит/с · TLS
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?sni=clustertoken.comparecarprices.org#🇸🇪 Швеция · Stockholm · 1 Мбит/с · QUIC
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@clustertoken.comparecarprices.org:443?security=tls&alpn=h3&insecure=0&sni=clustertoken.comparecarprices.org#🇸🇪 Швеция · Stockholm · 1 Мбит/с · QUIC
-vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@135.126.21.141:47443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2-l612CTVIhib8m5qtGe1cFB1r9ob8K9ZONMKxy6vn8&security=reality&sid=73c41be2&sni=tg.mech-pro.online&type=tcp#🌐 ? · 0 Мбит/с · Reality
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@er5we.cf.877774.xyz:443?&security=tls&sni=era01.gg9901.uk&type=ws&headerType=none&host=era01.gg9901.uk&path=%2Fimages#🌐 ? · 55 Мбит/с · TLS · ✅RU
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@34651e.cf.877774.xyz:443?sni=44-ml-1.ccc4vortex.top&allowInsecure=1&type=ws&path=%2Fimages&fp=chrome#🇲🇾 MY · Kuala Lumpur · 19 Мбит/с · TROJAN · ✅RU
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@3456f1.cloudflare.182682.xyz:443?sni=44-ml-1.ccc4vortex.top&allowInsecure=1&type=ws&path=%2Fimages&fp=chrome#🇲🇾 MY · Kuala Lumpur · 17 Мбит/с · TROJAN · ✅RU
+vless://50414e45-4c5f-5a45-5553-3491f38fc8f6@rezblheru5ds.8cznx9eeukls.workers.dev:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F3491f38fc8f6%2Floc-0&host=rezblheru5ds.8cznx9eeukls.workers.dev&packetEncoding=xudp&sni=rezblheru5ds.8cznx9eeukls.workers.dev&fp=unsafe#🇺🇦 Украина · Kyiv · 17 Мбит/с · TLS · ✅RU
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.200:443?security=tls&type=ws&path=%2Fimages&host=uuc01.gg9901.uk&packetEncoding=xudp&sni=uuc01.gg9901.uk&fp=chrome&encryption=none#🇺🇸 США · Лос-Анджелес · 15 Мбит/с · TLS · ✅RU
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.142:443?security=tls&type=ws&path=%2Fimages&host=uua01.gg9901.uk&packetEncoding=xudp&sni=uua01.gg9901.uk&fp=chrome&encryption=none#🇺🇸 США · Лос-Анджелес · 15 Мбит/с · TLS · ✅RU
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@uuafe56.cf.877774.xyz:443?&security=tls&sni=uua01.gg9901.uk&type=ws&headerType=none&host=uua01.gg9901.uk&path=%2Fimages#🇺🇸 США · Лос-Анджелес · 13 Мбит/с · TLS · ✅RU
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@45.196.221.231:50761?insecure=1&sni=iosapps.itunes.apple.com&pinSHA256=cb68d0d51062b79cb57d4f4aab0487607e9d4db403397c7f009b81146811d7ad#🇭🇰 Гонконг · Гонконг · 10 Мбит/с · QUIC · ✅RU
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#🇮🇱 IL · Jerusalem · 2 Мбит/с · QUIC · ✅RU
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.129.80:5555?#🇯🇵 Япония · Tokyo · 0 Мбит/с · SS · ✅RU
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@6e5f16.cloudflare.182682.xyz:443?security=tls&type=ws&path=%2Fimages&host=jp.bbusxxxh.top&packetEncoding=xudp&sni=jp.bbusxxxh.top&fp=chrome&encryption=none#🇯🇵 Япония · Синагава · 0 Мбит/с · TLS · ✅RU
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@jllp.cf.877774.xyz:443?&security=tls&sni=jp.bbusxxxh.top&type=ws&headerType=none&host=jp.bbusxxxh.top&path=%2Fimages#🇯🇵 Япония · Синагава · 0 Мбит/с · TLS · ✅RU
+vless://00000000-0000-0001-0000-000000000000@176.114.83.133:443?security=tls&fp=firefox&sni=dfleafaaejodeytqqe.fcloudservices.site#🌐 ? · 63 Мбит/с · TLS
+vless://00000000-0000-0001-0000-000000000000@api.14887277.xyz:443?path=/session&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=api.14887277.xyz&fp=chrome&type=ws&allowInsecure=0&sni=trx.tools#🌐 ? · 55 Мбит/с · TLS
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@34y35554.cloudflare.182682.xyz:443?&security=tls&sni=tw1.bbusxxxh.top&type=ws&headerType=none&host=tw1.bbusxxxh.top&path=%2Fimages#🇹🇼 Тайвань · Changhua · 23 Мбит/с · TLS
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@zhilegelian3.bpca2026.top:443?sni=zhilegelian3.bpca2026.top&allowInsecure=1&type=ws&path=%2Fimages&fp=chrome#🇹🇼 Тайвань · Chang-hua · 9 Мбит/с · TROJAN
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.18:443?security=tls&type=ws&path=%2Fimages&host=tw1.bbusxxxh.top&packetEncoding=xudp&sni=tw1.bbusxxxh.top&fp=chrome&encryption=none#🇹🇼 Тайвань · Changhua · 5 Мбит/с · TLS
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@108.181.17.92:51306?insecure=1&sni=api.push.apple.com&pinSHA256=41bdbeef10a85a7b2233b6d3b006c77ab806bb66847b72002ada3e9fa3e41865#🇺🇸 США · Лос-Анджелес · 9 Мбит/с · QUIC · ✅RU
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@108.181.10.72:50448?insecure=1&sni=iosapps.itunes.apple.com&pinSHA256=5514b29f6a5ca46a1af05930aeb67aca1f265bbd01515e9a1271165e835e92f0#🇺🇸 США · Лос-Анджелес · 9 Мбит/с · QUIC
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@108.181.9.242:50777?insecure=1&sni=iosapps.itunes.apple.com&pinSHA256=cf7790610abd92e3c38d6bcf932d34ace22b8edfa9260d6a1270722359595502#🇺🇸 США · Лос-Анджелес · 9 Мбит/с · QUIC
